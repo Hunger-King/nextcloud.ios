@@ -1,0 +1,2901 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2007-10-18 14:00+0100\n"
+"PO-Revision-Date: 2007-10-18 14:00+0100\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: English <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "_itunes_"
+msgstr "iTunes"
+
+msgid "_cancel_"
+msgstr "Cancel"
+
+msgid "_tap_to_cancel_"
+msgstr "Tap to cancel"
+
+msgid "_cancel_request_"
+msgstr "Do you want to cancel?"
+
+msgid "_upload_file_"
+msgstr "Upload file"
+
+msgid "_download_file_"
+msgstr "Download file"
+
+msgid "_loading_"
+msgstr "Loading"
+
+msgid "_loading_with_points_"
+msgstr "Loading …"
+
+msgid "_loading_num_"
+msgstr "Loading file %i"
+
+msgid "_loading_autoupload_"
+msgstr "Auto uploading"
+
+msgid "_uploading_"
+msgstr "Uploading"
+
+msgid "_synchronization_"
+msgstr "Synchronization"
+
+msgid "_delete_"
+msgstr "Delete"
+
+msgid "_delete_file_n_"
+msgstr "Delete file %i of %i"
+
+msgid "_rename_"
+msgstr "Rename"
+
+msgid "_rename_file_"
+msgstr "Rename file"
+
+msgid "_rename_folder_"
+msgstr "Rename folder"
+
+msgid "_move_"
+msgstr "Move"
+
+msgid "_move_file_n_"
+msgstr "Move file %i of %i"
+
+msgid "_creating_sharing_"
+msgstr "Creating share"
+
+msgid "_updating_sharing_"
+msgstr "Updating share"
+
+msgid "_removing_sharing_"
+msgstr "Removing share"
+
+msgid "_add_"
+msgstr "Add"
+
+msgid "_login_"
+msgstr "Log in"
+
+msgid "_save_"
+msgstr "Save"
+
+msgid "_warning_"
+msgstr "Warning"
+
+msgid "_error_"
+msgstr "Error"
+
+msgid "_no_"
+msgstr "No"
+
+msgid "_yes_"
+msgstr "Yes"
+
+msgid "_select_"
+msgstr "Select"
+
+msgid "_deselect_"
+msgstr "Deselect"
+
+msgid "_select_all_"
+msgstr "Select all"
+
+msgid "_upload_"
+msgstr "Upload"
+
+msgid "_home_"
+msgstr "Files"
+
+msgid "_files_"
+msgstr "files"
+
+msgid "_home_dir_"
+msgstr "Home"
+
+msgid "_file_to_upload_"
+msgstr "File to upload"
+
+msgid "_destination_"
+msgstr "Destination"
+
+msgid "_ok_"
+msgstr "OK"
+
+msgid "_beta_version_"
+msgstr "Beta version"
+
+msgid "_function_in_testing_"
+msgstr ""
+"Function in testing, please send information about any problems you run "
+"into."
+
+msgid "_done_"
+msgstr "Done"
+
+msgid "_clear_"
+msgstr "Clear"
+
+msgid "_passcode_too_short_"
+msgstr "Passcode too short, at least 4 characters required"
+
+msgid "_selected_"
+msgstr "Selected"
+
+msgid "_scan_fingerprint_"
+msgstr "Scan fingerprint to authenticate"
+
+msgid "_no_active_account_"
+msgstr "No account found"
+
+msgid "_info_"
+msgstr "Info"
+
+msgid "_email_"
+msgstr "Email"
+
+msgid "_save_exit_"
+msgstr "Do you want to exit without saving?"
+
+msgid "_video_"
+msgstr "Video"
+
+msgid "_overwrite_"
+msgstr "Overwrite"
+
+msgid "_transfers_in_queue_"
+msgstr "Transfers in progress, please wait …"
+
+msgid "_too_errors_upload_"
+msgstr "Too many errors, please verify the problem"
+
+msgid "_create_folder_"
+msgstr "Create folder"
+
+msgid "_create_folder_e2ee_"
+msgstr "Create encrypted folder"
+
+msgid "_create_folder_on_"
+msgstr "Create folder on"
+
+msgid "_close_"
+msgstr "Close"
+
+msgid "_postpone_"
+msgstr "Postpone"
+
+msgid "_remove_"
+msgstr "Remove"
+
+msgid "_file_not_found_"
+msgstr "File not found"
+
+msgid "_continue_"
+msgstr "Continue"
+
+msgid "_continue_editing_"
+msgstr "Continue editing"
+
+msgid "_continue_request_"
+msgstr "Do you want to continue?"
+
+msgid "_auto_upload_folder_"
+msgstr "Auto upload"
+
+msgid "_gallery_"
+msgstr "Gallery"
+
+msgid "_photo_"
+msgstr "Photo"
+
+msgid "_audio_"
+msgstr "Audio"
+
+msgid "_unknown_"
+msgstr "Unknown"
+
+msgid "_next_"
+msgstr "Next"
+
+msgid "_success_"
+msgstr "Success"
+
+msgid "_initialization_"
+msgstr "Initialization"
+
+msgid "_experimental_"
+msgstr "Experimental"
+
+msgid "_select_dir_media_tab_"
+msgstr "Select as folder \\\"Media\\"
+
+msgid "_error_creation_file_"
+msgstr "Oops! Could not create the file"
+
+msgid "_save_path_"
+msgstr "Save path"
+
+msgid "_save_settings_"
+msgstr "Save settings"
+
+msgid "_mode_filename_"
+msgstr "Filename mode"
+
+msgid "_warning_owncloud_"
+msgstr ""
+"You are connected to an ownCloud server. This is untested and unsupported, "
+"use at your own risk. To upgrade to Nextcloud, see "
+"https://nextcloud.com/migration"
+
+msgid "_warning_unsupported_"
+msgstr ""
+"You are using an unsupported version of Nextcloud. For the safety of your "
+"data we strongly recommend updating to the latest stable Nextcloud"
+
+msgid "_restore_"
+msgstr "Restore"
+
+msgid "_camera_roll_"
+msgstr "Camera roll"
+
+msgid "_tap_here_to_change_"
+msgstr "Tap here to change"
+
+msgid "_no_albums_"
+msgstr "No albums"
+
+msgid "_denied_album_"
+msgstr ""
+"This app does not have access to \\\"Photos\\\", you can enable access in "
+"Privacy Settings"
+
+msgid "_denied_camera_"
+msgstr ""
+"This app does not have access to \\\"Camera\\\", you can enable access in "
+"Privacy Settings"
+
+msgid "_start_"
+msgstr "Start"
+
+msgid "_force_start_"
+msgstr "Force the start"
+
+msgid "_purchase_"
+msgstr "Purchase"
+
+msgid "_account_not_available_"
+msgstr ""
+"The account %@ of %@ does not exist, please add it to be able to read the "
+"file %@"
+
+msgid "_the_account_"
+msgstr "The account"
+
+msgid "_does_not_exist_"
+msgstr "does not exist"
+
+msgid "_error_parameter_schema_"
+msgstr "Wrong parameters, impossible to continue"
+
+msgid "_comments_"
+msgstr "Comments"
+
+msgid "_sharing_"
+msgstr "Sharing"
+
+msgid "_details_"
+msgstr "Details"
+
+msgid "_sub_details_"
+msgstr "Subscription Details"
+
+msgid "_subscriptions_"
+msgstr "Subscriptions"
+
+msgid "_dark_mode_"
+msgstr "Dark mode"
+
+msgid "_dark_mode_detect_"
+msgstr "Detect iOS dark mode"
+
+msgid "_screen_"
+msgstr "Screen"
+
+msgid "_wipe_account_"
+msgstr "Account wiped from server"
+
+msgid "_appconfig_view_title_"
+msgstr "Account configuration in progress …"
+
+msgid "_no_permission_add_file_"
+msgstr "You don't have permission to add files"
+
+msgid "_no_permission_delete_file_"
+msgstr "You don't have permission to delete files"
+
+msgid "_no_permission_modify_file_"
+msgstr "You don't have permission to modify files"
+
+msgid "_request_upload_new_ver_"
+msgstr "The file has been modified, do you want to upload the new version?"
+
+msgid "_add_folder_info_"
+msgstr "Add folder info"
+
+msgid "_back_"
+msgstr "Back"
+
+msgid "_search_"
+msgstr "Search"
+
+msgid "_of_"
+msgstr "of"
+
+msgid "_internal_modify_"
+msgstr "Edit with internal editor"
+
+msgid "_database_corrupt_"
+msgstr ""
+"Oops something went wrong, please enter your credentials but don't worry, "
+"your files have remained secure"
+
+msgid "_download_locally_"
+msgstr "Download locally"
+
+msgid "_livephoto_save_"
+msgstr "Save Live Photo to photo album"
+
+msgid "_livephoto_save_error_"
+msgstr "Error during save of Live Photo"
+
+msgid "_file_conflict_num_"
+msgstr "file conflict"
+
+msgid "_file_conflicts_num_"
+msgstr "file conflicts"
+
+msgid "_file_conflict_desc_"
+msgstr ""
+"Which files do you want to keep?\\nIf you select both versions, the copied "
+"file will have a number added to its name."
+
+msgid "_file_conflict_new_"
+msgstr "New files"
+
+msgid "_file_conflict_exists_"
+msgstr "Already existing files"
+
+msgid "_file_not_rewite_doc_"
+msgstr ""
+"It is not possible to overwrite a document but only to create a new one"
+
+msgid "_move_or_copy_"
+msgstr "Move or copy"
+
+msgid "_copy_"
+msgstr "Copy"
+
+msgid "_now_"
+msgstr "Now"
+
+msgid "_wait_"
+msgstr "Please wait …"
+
+msgid "_attention_"
+msgstr "Attention"
+
+msgid "_recent_"
+msgstr "Recent"
+
+msgid "_view_in_folder_"
+msgstr "View in folder"
+
+msgid "_leave_share_"
+msgstr "Leave this share"
+
+msgid "_premium_"
+msgstr "Premium"
+
+msgid "_professional_"
+msgstr "Professional"
+
+msgid "_current_"
+msgstr "Current"
+
+msgid "_buy_"
+msgstr "Buy"
+
+msgid "_disabled_"
+msgstr "Disabled"
+
+msgid "_lock_file_"
+msgstr "Lock file"
+
+msgid "_unlock_file_"
+msgstr "Unlock file"
+
+msgid "_lock_selected_files_"
+msgstr "Lock files"
+
+msgid "_unlock_selected_files_"
+msgstr "Unlock files"
+
+msgid "_locked_by_"
+msgstr "Locked by %@"
+
+msgid "_file_locked_no_override_"
+msgstr "This file is locked. It cannot be overridden."
+
+msgid "_remove_file_"
+msgstr "Remove file"
+
+msgid "_delete_file_"
+msgstr "Delete file"
+
+msgid "_delete_folder_"
+msgstr "Delete folder"
+
+msgid "_delete_photo_"
+msgstr "Delete photo"
+
+msgid "_delete_video_"
+msgstr "Delete video"
+
+msgid "_automatic_Download_Image_"
+msgstr "Use images in full resolution"
+
+msgid "_automatic_Download_Image_footer_"
+msgstr ""
+"When viewing images always download, if not available locally, the images in"
+" full resolution"
+
+msgid "_size_"
+msgstr "Size"
+
+msgid "_file_size_"
+msgstr "Exported file size"
+
+msgid "_dimension_"
+msgstr "Dimension"
+
+msgid "_duration_"
+msgstr "Duration"
+
+msgid "_model_"
+msgstr "Model"
+
+msgid "_set_user_status_"
+msgstr "Set user status"
+
+msgid "_open_settings_"
+msgstr "Open settings"
+
+msgid "_rename_ext_title_"
+msgstr "Change file type?"
+
+msgid "_rename_ext_message_"
+msgstr "This file may behave differently if you change it from .%@ to %@"
+
+msgid "_use_"
+msgstr "Use"
+
+msgid "_keep_"
+msgstr "Keep"
+
+msgid "_account_request_"
+msgstr "Request account"
+
+msgid "_settings_account_request_"
+msgstr "Request account at startup"
+
+msgid "_print_"
+msgstr "Print"
+
+msgid "_alias_"
+msgstr "Alias"
+
+msgid "_alias_footer_"
+msgstr ""
+"Give your account names a descriptive name such as Home, Office, School …"
+
+msgid "_chunk_size_mb_"
+msgstr "Chunk size in MB"
+
+msgid "_chunk_footer_title_"
+msgstr ""
+"Chunked file upload (0 is disabled)\\nImportant: the chunked upload works "
+"only when the app is \\\"active\\\"."
+
+msgid "_privacy_legal_"
+msgstr "Privacy and Legal Policy"
+
+msgid "_source_code_"
+msgstr "Get source code"
+
+msgid "_account_select_"
+msgstr "Select the account"
+
+msgid "_account_select_to_add_"
+msgstr "Select the account to add"
+
+msgid "_host_insert_"
+msgstr "Insert the host name, for example:"
+
+msgid "_certificate_not_found_"
+msgstr "File %@ in documents directory not found."
+
+msgid "_copy_failed_"
+msgstr "Copy failed"
+
+msgid "_certificate_installed_"
+msgstr "Certificate installed"
+
+msgid "_remove_local_account_"
+msgstr "Remove local account"
+
+msgid "_want_delete_account_"
+msgstr "Do you want to remove local account %@"
+
+msgid "_prevent_http_redirection_"
+msgstr "The redirection in HTTP is not permitted"
+
+msgid "_pdf_vertical_"
+msgstr "PDF vertical display"
+
+msgid "_pdf_horizontal_"
+msgstr "PDF horizontal display"
+
+msgid "_single_file_conflict_title_"
+msgstr "File conflict"
+
+msgid "_multi_file_conflict_title_"
+msgstr "%@ File conflicts"
+
+msgid "_replace_action_title_"
+msgstr "Replace"
+
+msgid "_keep_both_action_title_"
+msgstr "Keep both"
+
+msgid "_cancel_keep_existing_action_title_"
+msgstr "Cancel and keep existing"
+
+msgid "_replace_all_action_title_"
+msgstr "Replace all"
+
+msgid "_keep_both_for_all_action_title_"
+msgstr "Keep both for all"
+
+msgid "_more_action_title_"
+msgstr "More Details"
+
+msgid "_wait_file_preparation_"
+msgstr "Please wait, upload file in preparation"
+
+msgid "_wait_file_encryption_"
+msgstr "Please wait, file encryption"
+
+msgid "_passcode_counter_fail_"
+msgstr "Failed attempts, please wait"
+
+msgid "_seconds_"
+msgstr "seconds"
+
+msgid "_use_as_background_"
+msgstr "Use it as a background"
+
+msgid "_background_"
+msgstr "Background"
+
+msgid "_default_color_"
+msgstr "Use the default color"
+
+msgid "_as_default_color_"
+msgstr "Use as default color"
+
+msgid "_online_"
+msgstr "Online"
+
+msgid "_away_"
+msgstr "Away"
+
+msgid "_dnd_"
+msgstr "Do not disturb"
+
+msgid "_dnd_description_"
+msgstr "Mute all notifications"
+
+msgid "_invisible_"
+msgstr "Invisible"
+
+msgid "_invisible_description_"
+msgstr "Appear offline"
+
+msgid "_status_message_"
+msgstr "Status message"
+
+msgid "_status_message_placehorder_"
+msgstr "What is your status?"
+
+msgid "_online_status_"
+msgstr "Online status"
+
+msgid "_clear_status_message_"
+msgstr "Clear status message"
+
+msgid "_set_status_message_"
+msgstr "Set status message"
+
+msgid "_clear_status_message_after_"
+msgstr "Clear status message after"
+
+msgid "_select_option_"
+msgstr "Select option"
+
+msgid "_dont_clear_"
+msgstr "Don't clear"
+
+msgid "_30_minutes_"
+msgstr "30 minutes"
+
+msgid "_an_hour_"
+msgstr "an hour"
+
+msgid "_1_hour_"
+msgstr "1 hour"
+
+msgid "_4_hours_"
+msgstr "4 hours"
+
+msgid "day"
+msgstr "Today"
+
+msgid "_this_week_"
+msgstr "This week"
+
+msgid "_days_"
+msgstr "Days"
+
+msgid "_hours_"
+msgstr "Hours"
+
+msgid "_minutes_"
+msgstr "Minutes"
+
+msgid "_network_available_"
+msgstr "Network available"
+
+msgid "_network_not_available_"
+msgstr "Network unavailable"
+
+msgid "_file_too_big_"
+msgstr "File too large to be encrypted/decrypted"
+
+msgid "_file_too_big_max_100_"
+msgstr "File too large (max 100 kb.)"
+
+msgid "_...loading..._"
+msgstr "Loading …"
+
+msgid "_download_plist_"
+msgstr " "
+
+msgid "_no_reuploadfile_"
+msgstr ""
+"Could not find nor resend file. Delete the upload and reload the file to "
+"upload it."
+
+msgid "_file_already_exists_"
+msgstr "Could not complete the operation, a file with the same name exists"
+
+msgid "_read_file_error_"
+msgstr "Could not read the file"
+
+msgid "_write_file_error_"
+msgstr "Could not write the file"
+
+msgid "_files_lock_error_"
+msgstr "There was an error changing the lock of this file"
+
+msgid "_more_"
+msgstr "More"
+
+msgid "_notifications_"
+msgstr "Notifications"
+
+msgid "_logout_"
+msgstr "Log out"
+
+msgid "_quota_space_unlimited_"
+msgstr "Unlimited"
+
+msgid "_quota_space_unknown_"
+msgstr "Unknown"
+
+msgid "_quota_using_"
+msgstr "You are using %@ of %@"
+
+msgid "_acknowledgements_"
+msgstr "Acknowledgements"
+
+msgid "_settings_"
+msgstr "Settings"
+
+msgid "_passcode_"
+msgstr "Password"
+
+msgid "_enter_password_"
+msgstr "Enter password …"
+
+msgid "_lock_"
+msgstr "Lock"
+
+msgid "_lock_active_"
+msgstr "Lock: On"
+
+msgid "_lock_not_active_"
+msgstr "Lock: Off"
+
+msgid "_lock_protection_no_screen_"
+msgstr "Do not ask at startup"
+
+msgid "_lock_protection_no_screen_footer_"
+msgstr "Use \\\"Do not ask at startup\\\" for the encryption option."
+
+msgid "_enable_touch_face_id_"
+msgstr "Enable Touch/Face ID"
+
+msgid "_url_"
+msgstr "URL"
+
+msgid "_username_"
+msgstr "Username"
+
+msgid "_change_credentials_"
+msgstr "Change your credentials"
+
+msgid "_wifi_only_"
+msgstr "Only use Wi-Fi connection"
+
+msgid "_settings_autoupload_"
+msgstr "Auto upload"
+
+msgid "_app_version_"
+msgstr "Application version"
+
+msgid "_app_in_use_"
+msgstr "Application in use"
+
+msgid "_contact_by_email_"
+msgstr "Contact us by email"
+
+msgid "_clear_cache_"
+msgstr "Clear cache"
+
+msgid "_clear_cache_footer_"
+msgstr "Clear downloaded and offline files from the app"
+
+msgid "_exit_"
+msgstr "Reset application"
+
+msgid "_exit_footer_"
+msgstr "Remove all accounts and local data from the app"
+
+msgid "_funct_not_enabled_"
+msgstr "Functionality not enabled"
+
+msgid "_passcode_activate_"
+msgstr "Password lock on"
+
+msgid "_disabling_passcode_"
+msgstr "Removing password lock"
+
+msgid "_want_exit_"
+msgstr "Attention! Will be reset to initial state. Continue?"
+
+msgid "_proceed_"
+msgstr "Proceed"
+
+msgid "_delete_cache_"
+msgstr "Delete cache"
+
+msgid "_want_delete_cache_"
+msgstr ""
+"Do you want to delete the cache (this also removes the transfers in "
+"progress)?"
+
+msgid "_want_delete_thumbnails_"
+msgstr "Do you want to delete all thumbnails too?"
+
+msgid "_mail_deleted_"
+msgstr "Email deleted"
+
+msgid "_mail_saved_"
+msgstr "Email saved"
+
+msgid "_mail_sent_"
+msgstr "Email sent"
+
+msgid "_mail_failure_"
+msgstr "Could not send email: %@"
+
+msgid "_information_req_"
+msgstr "Information request"
+
+msgid "_write_in_english_"
+msgstr "Kindly write to us in English"
+
+msgid "_credentials_"
+msgstr "Credentials"
+
+msgid "_manage_account_"
+msgstr "Manage account"
+
+msgid "_change_password_"
+msgstr "Change password"
+
+msgid "_add_account_"
+msgstr "Add account"
+
+msgid "_delete_account_"
+msgstr "Remove account"
+
+msgid "_delete_active_account_"
+msgstr "Remove active account"
+
+msgid "_want_delete_"
+msgstr "Do you really want to delete?"
+
+msgid "_no_delete_"
+msgstr "No, do not delete"
+
+msgid "_yes_delete_"
+msgstr "Yes, delete"
+
+msgid "_remove_cache_"
+msgstr "Deleting cache, please wait …"
+
+msgid "_optimizations_"
+msgstr "Optimizations"
+
+msgid "_synchronizations_"
+msgstr "Synchronized folders"
+
+msgid "_version_server_"
+msgstr "Server version"
+
+msgid "_help_"
+msgstr "Help"
+
+msgid "_change_simply_passcode_"
+msgstr "Change password type"
+
+msgid "_quota_"
+msgstr "Quota"
+
+msgid "_available_"
+msgstr "Available"
+
+msgid "_not_available_"
+msgstr "Not available"
+
+msgid "_accounts_"
+msgstr "Accounts"
+
+msgid "_information_"
+msgstr "Information"
+
+msgid "_personal_information_"
+msgstr "Personal info"
+
+msgid "_user_full_name_"
+msgstr "Full name"
+
+msgid "_user_address_"
+msgstr "Address"
+
+msgid "_user_phone_"
+msgstr "Phone number"
+
+msgid "_user_email_"
+msgstr "Email"
+
+msgid "_user_web_"
+msgstr "Website"
+
+msgid "_user_twitter_"
+msgstr "Twitter"
+
+msgid "_user_job_"
+msgstr "Job"
+
+msgid "_user_businesssize_"
+msgstr "Business size"
+
+msgid "_user_businesstype_"
+msgstr "Business type"
+
+msgid "_user_city_"
+msgstr "City"
+
+msgid "_user_country_"
+msgstr "Country"
+
+msgid "_user_company_"
+msgstr "Company"
+
+msgid "_user_role_"
+msgstr "Role"
+
+msgid "_user_zip_"
+msgstr "Zip"
+
+msgid "_user_owner_"
+msgstr "Owner"
+
+msgid "_user_employee_"
+msgstr "Employee"
+
+msgid "_user_contractor_"
+msgstr "Contractor"
+
+msgid "_user_editprofile_"
+msgstr "Edit profile"
+
+msgid "_select_offline_warning_"
+msgstr ""
+"Making multiple files and folders available offline may take a while and use"
+" a lot of memory while doing so."
+
+msgid "_advanced_"
+msgstr "Advanced"
+
+msgid "_permissions_"
+msgstr "Permissions"
+
+msgid "_disable_files_app_"
+msgstr "Disable Files App integration"
+
+msgid "_disable_files_app_footer_"
+msgstr "Do not permit the access of files via the iOS Files application"
+
+msgid "_trial_"
+msgstr "Trial"
+
+msgid "_trial_expired_day_"
+msgstr "Days remaining"
+
+msgid "_time_remaining_"
+msgstr "%@ remaining"
+
+msgid "_disableLocalCacheAfterUpload_footer_"
+msgstr "After uploading the file, do not keep it in the local cache"
+
+msgid "_disableLocalCacheAfterUpload_"
+msgstr "Disable local cache"
+
+msgid "_autoupload_"
+msgstr "Auto upload photos/videos"
+
+msgid "_autoupload_select_folder_"
+msgstr "Select the \\\"Auto upload\\\" folder"
+
+msgid "_autoupload_error_select_folder_"
+msgstr "Select a valid folder for the \\\"Auto upload\\"
+
+msgid "_autoupload_background_"
+msgstr "Auto upload in the background"
+
+msgid "_autoupload_photos_"
+msgstr "Auto upload photos"
+
+msgid "_autoupload_videos_"
+msgstr "Auto upload videos"
+
+msgid "_autoupload_description_"
+msgstr "New photos/videos will be automatically uploaded to your Nextcloud"
+
+msgid "_autoupload_description_background_"
+msgstr ""
+"This option requires the use of GPS to trigger the detection of new "
+"photos/videos in the camera roll once the location changes significantly"
+
+msgid "_autoupload_background_title_"
+msgstr "Limitations"
+
+msgid "_autoupload_background_msg_"
+msgstr ""
+"Due to iOS restrictions, it is not yet possible to perform background "
+"processes, unless GPS services are activated. Once the cell in the cellular "
+"network is changed, the system wakes up for a short time and checks for new "
+"photos to upload to the cloud."
+
+msgid "_autoupload_change_location_"
+msgstr "Change folder"
+
+msgid "_autoupload_location_now_"
+msgstr "Folder"
+
+msgid "_autoupload_location_default_"
+msgstr "Restore default folder"
+
+msgid "_autoupload_change_location_footer_"
+msgstr ""
+"Change folder used for \\\"Automatic upload of camera photos\\\" (if the "
+"option is enabled)"
+
+msgid "_autoupload_not_select_home_"
+msgstr "Select a folder"
+
+msgid "_autoupload_save_album_"
+msgstr "Copy photo or video into the photo album"
+
+msgid "_autoupload_fullphotos_"
+msgstr "Upload the whole camera roll"
+
+msgid "_autoupload_fullphotos_footer_"
+msgstr "Adjust the options above before uploading"
+
+msgid "_autoupload_create_subfolder_"
+msgstr "Use subfolders"
+
+msgid "_autoupload_create_subfolder_footer_"
+msgstr "Store in subfolders based on year, month or daily"
+
+msgid "_autoupload_subfolder_granularity_"
+msgstr "Subfolder Granularity"
+
+msgid "_autoupload_filenamemask_"
+msgstr "Change filename mask"
+
+msgid "_autoupload_filenamemask_footer_"
+msgstr "Change the automatic filename mask"
+
+msgid "_autoupload_current_folder_"
+msgstr "Currently selected folder"
+
+msgid "_help_tutorial_"
+msgstr "Tutorial"
+
+msgid "_help_intro_"
+msgstr "Introduction to Nextcloud"
+
+msgid "_help_activity_verbose_"
+msgstr "Detailed Activity feed"
+
+msgid "_help_activity_mail_"
+msgstr "Send activity via email"
+
+msgid "_help_activity_clear_"
+msgstr "Clear activity"
+
+msgid "_show_hidden_files_"
+msgstr "Show hidden files"
+
+msgid "_format_compatibility_"
+msgstr "Most Compatible"
+
+msgid "_format_compatibility_footer_"
+msgstr "\\\"Most compatible\\\" will save photos as JPEG, if possible."
+
+msgid "_terms_"
+msgstr "Terms of Service"
+
+msgid "_privacy_"
+msgstr "Privacy"
+
+msgid "_privacy_policy_"
+msgstr "Privacy Policy"
+
+msgid "_privacy_footer_"
+msgstr ""
+"Nextcloud iOS uses a service for the analysis of a crash. Your personal "
+"information is not sent with the report. If you want disable it, please "
+"change the setting \\\"Disable crash reporter\\\" to ON"
+
+msgid "_crashservice_title_"
+msgstr "Disable crash reporter"
+
+msgid "_crashservice_alert_"
+msgstr "This option requires a restart of the app to take effect"
+
+msgid "_upload_mov_livephoto_"
+msgstr "Live Photo"
+
+msgid "_upload_mov_livephoto_footer_"
+msgstr ""
+"\\\"Live Photo\\\" will save the selected photo in \\\"Live Photo\\\" "
+"format, if possible."
+
+msgid "_view_capabilities_"
+msgstr "View the capabilities"
+
+msgid "_capabilities_"
+msgstr "Capabilities"
+
+msgid "_no_capabilities_found_"
+msgstr "Capabilities not found"
+
+msgid "_diagnostics_"
+msgstr "Diagnostics"
+
+msgid "_view_log_"
+msgstr "View log file"
+
+msgid "_clear_log_"
+msgstr "Clear log file"
+
+msgid "_level_log_"
+msgstr "Set Log level (disabled, standard, maximum)"
+
+msgid "_connect_server_anyway_"
+msgstr "Do you want to connect to the server anyway?"
+
+msgid "_server_is_trusted_"
+msgstr "Do you consider this server trusted?"
+
+msgid "_connection_error_"
+msgstr "Connection error"
+
+msgid "_serverstatus_error_"
+msgstr ""
+"Connection to server failure, verify your server address or network status"
+
+msgid "_add_your_nextcloud_"
+msgstr "Add your Nextcloud account"
+
+msgid "_login_url_"
+msgstr "Server address https:// …"
+
+msgid "_login_bottom_label_"
+msgstr "Don't have a server yet?\\nChoose one of the providers."
+
+msgid "_error_multidomain_"
+msgstr "Address not allowed, only the following domains are valid:"
+
+msgid "_account_already_exists_"
+msgstr "The account %@ already exists"
+
+msgid "_traditional_login_"
+msgstr "Revert to old login method"
+
+msgid "_web_login_"
+msgstr "Revert to web login method"
+
+msgid "_login_url_error_"
+msgstr "URL error, please verify your server URL"
+
+msgid "_webflow_not_available_"
+msgstr "Web login not available, use the old login method"
+
+msgid "_favorites_"
+msgstr "Favorites"
+
+msgid "_favorite_"
+msgstr "Favorite"
+
+msgid "_unfavorite_"
+msgstr "Unfavorite"
+
+msgid "_no_files_uploaded_"
+msgstr "No files uploaded"
+
+msgid "_tutorial_favorite_view_"
+msgstr "Files and folders you mark as favorites will show up here"
+
+msgid "_tutorial_offline_view_"
+msgstr ""
+"Files copied here will be available offline.\\n\\nThey will be synchronized "
+"with your cloud."
+
+msgid "_tutorial_groupfolders_view_"
+msgstr "No Group folders yet"
+
+msgid "_tutorial_local_view_"
+msgstr ""
+"You'll find the unpacked files from your cloud.\\n\\nConnect to iTunes to "
+"share these files."
+
+msgid "_favorite_no_files_"
+msgstr "No favorites yet"
+
+msgid "_pull_down_"
+msgstr "Pull down to refresh"
+
+msgid "_no_photo_load_"
+msgstr "No photo or video"
+
+msgid "_tutorial_autoupload_view_"
+msgstr "You can enable auto uploads from \\\"Settings\\"
+
+msgid "_no_date_information_"
+msgstr "No date information"
+
+msgid "_no_camera_information_"
+msgstr "No camera information"
+
+msgid "_no_lens_information_"
+msgstr "No lens information"
+
+msgid "_today_"
+msgstr "Today"
+
+msgid "_yesterday_"
+msgstr "Yesterday"
+
+msgid "_time_"
+msgstr "Time: %@\\n\\n%@"
+
+msgid "_location_not_enabled_"
+msgstr "Location Services not enabled"
+
+msgid "_location_not_enabled_msg_"
+msgstr "Please go to \\\"Settings\\\" and turn on \\\"Location Services\\"
+
+msgid "_access_photo_not_enabled_"
+msgstr "Access to Photos not enabled"
+
+msgid "_access_photo_not_enabled_msg_"
+msgstr "Please go to \\\"Settings\\\" and turn on \\\"Photo Access\\"
+
+msgid "_access_photo_location_not_enabled_"
+msgstr "Access to Photos and Location not enabled"
+
+msgid "_access_photo_location_not_enabled_msg_"
+msgstr "Please go to \\\"Settings\\\" and turn on \\\"Photo Access\\\" and \\\"Location Services\\"
+
+msgid "_tutorial_photo_view_"
+msgstr "No photos or videos uploaded yet"
+
+msgid "_create_full_upload_"
+msgstr ""
+"Creating archive … May take a long time. During this process, keep the "
+"application active during the transfer as well."
+
+msgid "_error_createsubfolders_upload_"
+msgstr "Error creating subfolders"
+
+msgid "_activate_autoupload_"
+msgstr "Enable auto upload"
+
+msgid "_remove_photo_CameraRoll_"
+msgstr "Remove from camera roll"
+
+msgid "_remove_photo_CameraRoll_desc_"
+msgstr ""
+"\\\"Remove from camera roll\\\" after uploads, a confirmation message will "
+"be displayed to delete the uploaded photos or videos from the camera roll. "
+"The deleted photos or videos will still be available in the iOS Photos Trash"
+" for 30 days."
+
+msgid "_never_"
+msgstr "Never"
+
+msgid "_less_a_minute_"
+msgstr "less than a minute ago"
+
+msgid "_a_minute_ago_"
+msgstr "a minute ago"
+
+msgid "_minutes_ago_"
+msgstr "%d minutes ago"
+
+msgid "_an_hour_ago_"
+msgstr "an hour ago"
+
+msgid "_hours_ago_"
+msgstr "%d hours ago"
+
+msgid "_a_day_ago_"
+msgstr "a day ago"
+
+msgid "_days_ago_"
+msgstr "%d days ago"
+
+msgid "_over_30_days_"
+msgstr "over 30 days"
+
+msgid "_connection_internet_offline_"
+msgstr "The internet connection appears to be offline or Wi-Fi is required"
+
+msgid "_insert_password_"
+msgstr "Enter password"
+
+msgid "_update_in_progress_"
+msgstr "Version upgrade, please wait …"
+
+msgid "_forbidden_characters_"
+msgstr "Forbidden characters: %@"
+
+msgid "_cannot_send_mail_error_"
+msgstr "No account set up, or wrong email address entered"
+
+msgid "_open_url_error_"
+msgstr "Cannot open the URL for this action"
+
+msgid "_photo_camera_"
+msgstr "Photos"
+
+msgid "_media_"
+msgstr "Media"
+
+msgid "_unzip_in_progress_"
+msgstr "Extraction in progress on local storage …"
+
+msgid "_file_unpacked_"
+msgstr "File unpacked on local storage"
+
+msgid "_file_saved_local_"
+msgstr "File saved on local storage."
+
+msgid "_file_not_present_"
+msgstr "Error: File not present, please reload."
+
+msgid "_order_by_"
+msgstr "Sort by"
+
+msgid "_order_by_name_a_z_"
+msgstr "Sort by name (from A to Z)"
+
+msgid "_sorted_by_name_a_z_"
+msgstr "Sorted by name (from A to Z)"
+
+msgid "_order_by_name_z_a_"
+msgstr "Sort by name (from Z to A)"
+
+msgid "_sorted_by_name_z_a_"
+msgstr "Sorted by name (from Z to A)"
+
+msgid "_order_by_date_more_recent_"
+msgstr "Sort by newest"
+
+msgid "_sorted_by_date_more_recent_"
+msgstr "Sorted by newest"
+
+msgid "_order_by_date_less_recent_"
+msgstr "Sort by oldest"
+
+msgid "_sorted_by_date_less_recent_"
+msgstr "Sorted by oldest"
+
+msgid "_order_by_size_smallest_"
+msgstr "Sort by smallest"
+
+msgid "_sorted_by_size_smallest_"
+msgstr "Sorted by smallest"
+
+msgid "_order_by_size_largest_"
+msgstr "Sort by largest"
+
+msgid "_sorted_by_size_largest_"
+msgstr "Sorted by largest"
+
+msgid "_delete_selected_files_"
+msgstr "Delete files"
+
+msgid "_move_selected_files_"
+msgstr "Move files"
+
+msgid "_move_or_copy_selected_files_"
+msgstr "Move or copy files"
+
+msgid "_download_selected_files_"
+msgstr "Download files"
+
+msgid "_download_selected_files_folders_"
+msgstr "Download files and folders"
+
+msgid "_error_operation_canc_"
+msgstr "Error: Operation canceled."
+
+msgid "_only_lock_passcode_"
+msgstr ""
+"Available only with Lock password activated. Activate it in the "
+"\\\"Settings\\\"."
+
+msgid "_go_to_app_settings_"
+msgstr "Go to app settings"
+
+msgid "_passcode_protection_"
+msgstr "Password protection"
+
+msgid "_remove_favorites_"
+msgstr "Remove from favorites"
+
+msgid "_remove_offline_"
+msgstr "Remove from offline"
+
+msgid "_add_favorites_"
+msgstr "Add to favorites"
+
+msgid "_add_offline_"
+msgstr "Add to offline"
+
+msgid "_remove_passcode_"
+msgstr "Remove password protection"
+
+msgid "_protect_passcode_"
+msgstr "Protect with password"
+
+msgid "_share_"
+msgstr "Share"
+
+msgid "_reload_"
+msgstr "Reload"
+
+msgid "_open_in_"
+msgstr "Open in …"
+
+msgid "_open_"
+msgstr "Open …"
+
+msgid "_remove_local_file_"
+msgstr "Remove from cache"
+
+msgid "_add_local_"
+msgstr "Add to local storage"
+
+msgid "_comm_erro_pull_down_"
+msgstr "Attention: Communication error with the server. Pull down to refresh."
+
+msgid "_file_not_downloaded_"
+msgstr "file not downloaded"
+
+msgid "_file_not_uploaded_"
+msgstr "file not uploaded"
+
+msgid "_folders_"
+msgstr "folders"
+
+msgid "_folder_"
+msgstr "folder"
+
+msgid "_file_"
+msgstr "file"
+
+msgid "_folder_blocked_"
+msgstr "Folder blocked"
+
+msgid "_downloading_progress_"
+msgstr "Initiating download of files …"
+
+msgid "_no_file_pull_down_"
+msgstr "Upload a file or pull down to refresh"
+
+msgid "_browse_images_"
+msgstr "Browse images"
+
+msgid "_synchronized_folder_"
+msgstr "Keep the folder synchronized"
+
+msgid "_remove_synchronized_folder_"
+msgstr "Turn off the synchronization"
+
+msgid "_synchronized_confirm_"
+msgstr ""
+"After enabling the synchronization, all files in the folder will be "
+"synchronized with the server, continue?"
+
+msgid "_offline_folder_confirm_"
+msgstr ""
+"After enabling the offline folder, all files in it will be synchronized with"
+" the server, continue?"
+
+msgid "_file_not_found_reload_"
+msgstr "File not found, pull down to refresh"
+
+msgid "_title_section_download_"
+msgstr "DOWNLOAD"
+
+msgid "_title_section_upload_"
+msgstr "UPLOAD"
+
+msgid "_group_alphabetic_yes_"
+msgstr "✓ Group alphabetically"
+
+msgid "_group_alphabetic_no_"
+msgstr "Group alphabetically"
+
+msgid "_group_typefile_yes_"
+msgstr "✓ Group by file type"
+
+msgid "_group_typefile_no_"
+msgstr "Group by file type"
+
+msgid "_group_date_yes_"
+msgstr "✓ Group by date"
+
+msgid "_group_date_no_"
+msgstr "Group by date"
+
+msgid "_element_"
+msgstr "element"
+
+msgid "_elements_"
+msgstr "elements"
+
+msgid "_tite_footer_upload_wwan_"
+msgstr "  Wi-Fi network required, %lu %@ to upload"
+
+msgid "_tite_footer_upload_"
+msgstr "%lu %@ to upload"
+
+msgid "_tite_footer_download_wwan_"
+msgstr "  Wi-Fi network required, %lu %@ to download"
+
+msgid "_tite_footer_download_"
+msgstr "%lu %@ to download"
+
+msgid "_limited_dimension_"
+msgstr "Maximum size reached"
+
+msgid "_save_selected_files_"
+msgstr "Save to photo gallery"
+
+msgid "_file_not_saved_cameraroll_"
+msgstr "Error: File not saved in photo album"
+
+msgid "_file_saved_cameraroll_"
+msgstr "File saved in photo album"
+
+msgid "_directory_on_top_yes_"
+msgstr "✓ Folders on top"
+
+msgid "_directory_on_top_no_"
+msgstr "Folders on top"
+
+msgid "_folder_automatic_upload_"
+msgstr "Folder for \\\"Auto upload\\"
+
+msgid "_search_no_record_found_"
+msgstr "No result"
+
+msgid "_search_in_progress_"
+msgstr "Search in progress …"
+
+msgid "_search_instruction_"
+msgstr "Search for file (minimum 2 characters)"
+
+msgid "_files_no_files_"
+msgstr "No files in here"
+
+msgid "_files_no_folders_"
+msgstr "No folders in here"
+
+msgid "_request_in_progress_"
+msgstr "Request to server in progress …"
+
+msgid "audio"
+msgstr "AUDIO"
+
+msgid "compress"
+msgstr "COMPRESS"
+
+msgid "directory"
+msgstr "FOLDERS"
+
+msgid "document"
+msgstr "DOCUMENTS"
+
+msgid "image"
+msgstr "IMAGES"
+
+msgid "template"
+msgstr "TEMPLATES"
+
+msgid "unknow"
+msgstr "UNKNOWN"
+
+msgid "video"
+msgstr "VIDEO"
+
+msgid "_file_del_only_local_"
+msgstr "File not present on server"
+
+msgid "_copy_file_"
+msgstr "Copy"
+
+msgid "_paste_file_"
+msgstr "Paste"
+
+msgid "_open_quicklook_"
+msgstr "Open with Quick Look"
+
+msgid "_search_this_folder_"
+msgstr "Search in this folder"
+
+msgid "_search_all_folders_"
+msgstr "Search in all folders"
+
+msgid "_search_sub_folder_"
+msgstr "Search here and in subfolders"
+
+msgid "_theming_is_light_"
+msgstr "Server theming too brightly coloured, not applicable"
+
+msgid "_cancel_all_task_"
+msgstr "Cancel all transfers"
+
+msgid "_status_wait_download_"
+msgstr "Waiting for download"
+
+msgid "_status_in_download_"
+msgstr "In download"
+
+msgid "_status_downloading_"
+msgstr "Downloading"
+
+msgid "_status_wait_upload_"
+msgstr "Waiting for upload"
+
+msgid "_status_in_upload_"
+msgstr "In upload"
+
+msgid "_status_uploading_"
+msgstr "Uploading"
+
+msgid "_status_upload_error_"
+msgstr "Error, waiting for upload"
+
+msgid "_select_media_folder_"
+msgstr "Select the \\\"Media\\\" folder"
+
+msgid "_media_viewimage_show_"
+msgstr "Show only images"
+
+msgid "_media_viewvideo_show_"
+msgstr "Show only video"
+
+msgid "_media_show_all_"
+msgstr "Show both"
+
+msgid "_media_by_created_date_"
+msgstr "Sort by created date"
+
+msgid "_media_by_upload_date_"
+msgstr "Sort by upload date"
+
+msgid "_media_by_modified_date_"
+msgstr "Sort by modified date"
+
+msgid "_insert_password_pfd_"
+msgstr "Secured PDF. Enter password"
+
+msgid "_password_pdf_error_"
+msgstr "Wrong password"
+
+msgid "_error_download_photobrowser_"
+msgstr "Error: Unable to download photo"
+
+msgid "_good_morning_"
+msgstr "Good morning"
+
+msgid "_good_day_"
+msgstr "Good day"
+
+msgid "_good_afternoon_"
+msgstr "Good afternoon"
+
+msgid "_good_evening_"
+msgstr "Good evening"
+
+msgid "_good_night_"
+msgstr "Good night"
+
+msgid "_share_link_"
+msgstr "Share link"
+
+msgid "_share_link_button_"
+msgstr "Send link to …"
+
+msgid "_share_link_name_"
+msgstr "Link name"
+
+msgid "_password_"
+msgstr "Password"
+
+msgid "_share_password_"
+msgstr "Password protected link"
+
+msgid "_share_expirationdate_"
+msgstr "Set expiration date for link"
+
+msgid "_date_"
+msgstr "Date"
+
+msgid "_share_title_"
+msgstr "Share"
+
+msgid "_add_sharee_"
+msgstr "Add users or groups"
+
+msgid "_add_sharee_footer_"
+msgstr ""
+"You can share this resource by adding users or groups. To remove a share, "
+"remove all users and groups"
+
+msgid "_find_sharee_title_"
+msgstr "Search"
+
+msgid "_find_sharee_"
+msgstr "Search for user or group …"
+
+msgid "_find_sharee_footer_"
+msgstr ""
+"Enter part of the name of the user or group to search for (at least 2 "
+"characters) followed by \\\"Return\\\", select the users that should be "
+"allowed to access the share followed by \\\"Done\\\" to confirm"
+
+msgid "_user_is_group_"
+msgstr "(Group)"
+
+msgid "_direct_sharee_title_"
+msgstr "Share"
+
+msgid "_direct_sharee_footer_"
+msgstr ""
+"If you already know the name, enter it, then select the share type and press"
+" \\\"Done\\\" to confirm"
+
+msgid "_direct_sharee_"
+msgstr "Enter the username …"
+
+msgid "_user_sharee_footer_"
+msgstr "Tap to change permissions"
+
+msgid "_share_type_title_"
+msgstr "Type of share"
+
+msgid "_share_type_user_"
+msgstr "User"
+
+msgid "_share_type_group_"
+msgstr "Group"
+
+msgid "_share_type_remote_"
+msgstr "Remote"
+
+msgid "_enforce_password_protection_"
+msgstr "Enforce password protection"
+
+msgid "_password_obligatory_"
+msgstr "Enforce password protection enabled, password obligatory"
+
+msgid "_shared_with_you_by_"
+msgstr "Shared with you by"
+
+msgid "_shareLinksearch_placeholder_"
+msgstr "Type a name and press Search"
+
+msgid "_shareLinksearch_mail_placeholder_"
+msgstr "Type a name or an email and press Search"
+
+msgid "_new_comment_"
+msgstr "New comment …"
+
+msgid "_edit_comment_"
+msgstr "Edit comment"
+
+msgid "_delete_comment_"
+msgstr "Delete comment"
+
+msgid "_share_allow_editing_"
+msgstr "Allow editing"
+
+msgid "_share_read_only_"
+msgstr "View only"
+
+msgid "_share_editing_"
+msgstr "Editing"
+
+msgid "_share_allow_upload_"
+msgstr "Allow upload and editing"
+
+msgid "_share_file_drop_"
+msgstr "File drop (upload only)"
+
+msgid "_share_secure_file_drop_"
+msgstr "Secure file drop (upload only)"
+
+msgid "_share_hide_download_"
+msgstr "Hide download"
+
+msgid "_share_password_protect_"
+msgstr "Password protect"
+
+msgid "_share_expiration_date_"
+msgstr "Set expiration date"
+
+msgid "_share_note_recipient_"
+msgstr "Note to recipient"
+
+msgid "_share_delete_sharelink_"
+msgstr "Delete link"
+
+msgid "_share_add_sharelink_"
+msgstr "Add another link"
+
+msgid "_share_can_reshare_"
+msgstr "Allow resharing"
+
+msgid "_share_can_create_"
+msgstr "Allow creating"
+
+msgid "_share_can_change_"
+msgstr "Allow editing"
+
+msgid "_share_can_delete_"
+msgstr "Allow deleting"
+
+msgid "_share_can_download_"
+msgstr "Allow download"
+
+msgid "_share_unshare_"
+msgstr "Unshare"
+
+msgid "_share_internal_link_"
+msgstr "Internal link"
+
+msgid "_share_internal_link_des_"
+msgstr "Only works for users with access to this folder"
+
+msgid "_share_reshare_disabled_"
+msgstr "You are not allowed to reshare this file/folder"
+
+msgid "_share_reshare_restricted_"
+msgstr "Note: You only have limited permission to reshare this file/folder"
+
+msgid "_no_transfer_"
+msgstr "No transfers yet"
+
+msgid "_no_transfer_sub_"
+msgstr "Uploads and downloads from this device will show up here"
+
+msgid "_no_activity_"
+msgstr "No activity yet"
+
+msgid "_no_activity_footer_"
+msgstr "No more activities to load"
+
+msgid "_transfers_"
+msgstr "Transfers"
+
+msgid "_activity_"
+msgstr "Activity"
+
+msgid "_activity_file_not_present_"
+msgstr "File no longer present"
+
+msgid "_trash_file_not_found_"
+msgstr ""
+"It seems that the file is not in the trash, go to the trash to update it and"
+" try again"
+
+msgid "_list_shares_"
+msgstr "Shares"
+
+msgid "_list_shares_no_files_"
+msgstr "No shares yet"
+
+msgid "_tutorial_list_shares_view_"
+msgstr "Files and folders you share will show up here"
+
+msgid "_create_synchronization_"
+msgstr "Create synchronization"
+
+msgid "_offline_"
+msgstr "Offline"
+
+msgid "_local_storage_"
+msgstr "Local storage"
+
+msgid "_local_storage_no_record_"
+msgstr "No files yet"
+
+msgid "_upload_photos_videos_"
+msgstr "Upload photos or videos"
+
+msgid "_upload_file_text_"
+msgstr "Create text file"
+
+msgid "_create_nextcloudtext_document_"
+msgstr "Create text document"
+
+msgid "_save_document_picker_"
+msgstr "Save here"
+
+msgid "_destination_folder_"
+msgstr "Destination folder"
+
+msgid "_use_folder_auto_upload_"
+msgstr "Use the \\\"Auto upload\\\" folder as destination"
+
+msgid "_rename_filename_"
+msgstr "Rename"
+
+msgid "_filename_"
+msgstr "Filename"
+
+msgid "_enter_filename_"
+msgstr "Enter filename …"
+
+msgid "_preview_filename_"
+msgstr "Example preview of filename. You can use the mask %@ for date/time"
+
+msgid "_add_filenametype_"
+msgstr "Specify type in filename"
+
+msgid "_filenametype_photo_video_"
+msgstr "Photo/Video"
+
+msgid "_maintain_original_filename_"
+msgstr "Maintain original filename"
+
+msgid "_modify_photo_"
+msgstr "Modify photo"
+
+msgid "_no_notification_"
+msgstr "No notifications yet"
+
+msgid "_autoupload_filename_title_"
+msgstr "Auto upload filename"
+
+msgid "_untitled_txt_"
+msgstr "Untitled.txt"
+
+msgid "_text_upload_title_"
+msgstr "Upload text file"
+
+msgid "_e2e_settings_title_"
+msgstr "Encryption"
+
+msgid "_e2e_settings_"
+msgstr "End-to-end encryption"
+
+msgid "_e2e_settings_start_"
+msgstr "Start end-to-end encryption"
+
+msgid "_e2e_settings_not_available_"
+msgstr "End-to-end encryption not available"
+
+msgid "_e2e_settings_activated_"
+msgstr "End-to-end encryption activated"
+
+msgid "_e2e_server_disabled_"
+msgstr "End-to-end encryption app disabled on server"
+
+msgid "_e2e_settings_view_passphrase_"
+msgstr ""
+"All 12 words together make a very strong password, letting only you view and"
+" make use of your encrypted files. Please write it down and keep it "
+"somewhere safe."
+
+msgid "_e2e_settings_read_passphrase_"
+msgstr "Read passphrase"
+
+msgid "_e2e_settings_lock_not_active_"
+msgstr "Lock not active, go back to \\\"Settings\\\" and activate it"
+
+msgid "_e2e_settings_the_passphrase_is_"
+msgstr "The passphrase is:"
+
+msgid "_e2e_passphrase_request_title_"
+msgstr "Request passphrase"
+
+msgid "_e2e_passphrase_request_message_"
+msgstr "Insert the 12 words"
+
+msgid "_e2e_settings_remove_"
+msgstr "Remove the encryption locally"
+
+msgid "_e2e_settings_remove_message_"
+msgstr "Confirm removal of encryption along with the passphrase."
+
+msgid "_e2e_set_folder_encrypted_"
+msgstr "Encrypt"
+
+msgid "_e2e_remove_folder_encrypted_"
+msgstr "Decrypt"
+
+msgid "_e2e_goto_settings_for_enable_"
+msgstr ""
+"This is an encrypted directory, go to \\\"Settings\\\" and enable end-to-end"
+" encryption"
+
+msgid "_e2e_error_"
+msgstr "Serious internal error end-to-end encryption"
+
+msgid "_e2e_in_upload_"
+msgstr "Upload in progress, please wait for all files to be transferred"
+
+msgid "_scans_document_"
+msgstr "Scan document"
+
+msgid "_scanned_images_"
+msgstr "Scanned images"
+
+msgid "_scan_document_pdf_page_"
+msgstr "Page"
+
+msgid "_scan_label_document_zone_"
+msgstr "Drag images down for document creation"
+
+msgid "_filter_document_"
+msgstr "Document"
+
+msgid "_filter_original_"
+msgstr "Original"
+
+msgid "_filter_bn_"
+msgstr "Black & White"
+
+msgid "_filter_grayscale_"
+msgstr "Grayscale"
+
+msgid "_quality_image_title_"
+msgstr "Preview image quality"
+
+msgid "_quality_high_"
+msgstr "Large file size of high quality"
+
+msgid "_quality_medium_"
+msgstr "Average file size of medium quality"
+
+msgid "_quality_low_"
+msgstr "Small file size of low quality"
+
+msgid "_file_type_"
+msgstr "File type"
+
+msgid "_pdf_password_"
+msgstr "PDF Password"
+
+msgid "_file_creation_"
+msgstr "File creation"
+
+msgid "_delete_all_scanned_images_"
+msgstr "Delete all scanned images"
+
+msgid "_text_recognition_"
+msgstr "Text recognition"
+
+msgid "wescan.scanning.title"
+msgstr "Scanning"
+
+msgid "wescan.edit.button.next"
+msgstr "Next"
+
+msgid "wescan.edit.title"
+msgstr "Edit Scan"
+
+msgid "wescan.review.button.done"
+msgstr "Done"
+
+msgid "wescan.review.title"
+msgstr "Review"
+
+msgid "_trash_view_"
+msgstr "Deleted files"
+
+msgid "_trash_restore_all_"
+msgstr "Restore all files"
+
+msgid "_trash_delete_all_"
+msgstr "Empty trash"
+
+msgid "_trash_delete_permanently_"
+msgstr "Delete permanently"
+
+msgid "_trash_delete_all_description_"
+msgstr "Do you want to empty the trash bin?"
+
+msgid "_trash_no_trash_"
+msgstr "No files deleted"
+
+msgid "_trash_no_trash_description_"
+msgstr "You can restore deleted files from here"
+
+msgid "_trash_restore_selected_"
+msgstr "Restore selected files"
+
+msgid "_trash_delete_selected_"
+msgstr "Delete selected files"
+
+msgid "_manage_file_offline_"
+msgstr "Manage offline files"
+
+msgid "_set_available_offline_"
+msgstr "Set as available offline"
+
+msgid "_remove_available_offline_"
+msgstr "Remove as available offline"
+
+msgid "_create_new_document_"
+msgstr "Create new document"
+
+msgid "_create_new_spreadsheet_"
+msgstr "Create new spreadsheet"
+
+msgid "_create_new_presentation_"
+msgstr "Create new presentation"
+
+msgid "_go_online_"
+msgstr "Go online to see the document"
+
+msgid "_intro_1_title_"
+msgstr "Keep your data secure and under your control"
+
+msgid "_intro_2_title_"
+msgstr "Secure collaboration & file exchange"
+
+msgid "_intro_3_title_"
+msgstr "Easy-to-use web mail, calendaring & contacts"
+
+msgid "_intro_4_title_"
+msgstr "Screen sharing, online meetings & web conferences"
+
+msgid "_log_in_"
+msgstr "Log in"
+
+msgid "_sign_up_"
+msgstr "Sign up with provider"
+
+msgid "_host_your_own_server"
+msgstr "Host your own server"
+
+msgid "_unauthorized_"
+msgstr "Unauthorized"
+
+msgid "_bad_username_password_"
+msgstr "Wrong username or password"
+
+msgid "_cancelled_by_user"
+msgstr "Transfer canceled"
+
+msgid "_error_folder_destiny_is_the_same_"
+msgstr "It is not possible to move the folder into itself"
+
+msgid "_error_not_permission_"
+msgstr "You don't have permission to complete the operation"
+
+msgid "_error_path_"
+msgstr "Unable to open this file or folder. Please make sure it exists"
+
+msgid "_file_upload_not_exitst_"
+msgstr "The file that you want to upload does not exist"
+
+msgid "_forbidden_characters_from_server_"
+msgstr "The name contains at least one invalid character"
+
+msgid "_error_not_modified_"
+msgstr "Resource not modified"
+
+msgid "_not_connected_internet_"
+msgstr "Server connection error"
+
+msgid "_not_possible_connect_to_server_"
+msgstr "It is not possible to connect to the server at this time"
+
+msgid "_not_possible_create_folder_"
+msgstr "Folder could not be created"
+
+msgid "_server_down_"
+msgstr "Could not establish contact with server"
+
+msgid "_time_out_"
+msgstr "Timeout, try again"
+
+msgid "_unknow_response_server_"
+msgstr "Unexpected response from server"
+
+msgid "_user_authentication_required_"
+msgstr "User authentication required"
+
+msgid "_file_directory_locked_"
+msgstr "File or directory locked"
+
+msgid "_ssl_certificate_untrusted_"
+msgstr "The certificate for this server is invalid"
+
+msgid "_ssl_certificate_changed_"
+msgstr "The certificate for this server seems to have changed"
+
+msgid "_internal_server_"
+msgstr "Internal server error"
+
+msgid "_file_folder_not_exists_"
+msgstr "The source file wasn't found at the specified path"
+
+msgid "_folder_contents_nochanged_"
+msgstr "The folder contents have not changed"
+
+msgid "_images_invalid_converted_"
+msgstr "The image is invalid and cannot be converted to a thumbnail"
+
+msgid "_method_not_expected_"
+msgstr "Unexpected request method"
+
+msgid "_reauthenticate_user_"
+msgstr "Access expired, log in again"
+
+msgid "_server_error_retry_"
+msgstr "The server is temporarily unavailable"
+
+msgid "_too_many_files_"
+msgstr "Too many files would be involved in this operation"
+
+msgid "_too_many_request_"
+msgstr "Sending too many requests caused the rate limit to be reached"
+
+msgid "_user_over_quota_"
+msgstr "Storage quota is reached"
+
+msgid "_ssl_connection_error_"
+msgstr "Connection SSL error, try again"
+
+msgid "_bad_request_"
+msgstr "Bad request"
+
+msgid "_webdav_locked_"
+msgstr "WebDAV Locked: Trying to access locked resource"
+
+msgid "_error_user_not_available_"
+msgstr "The user is no longer available"
+
+msgid "_server_response_error_"
+msgstr "Server response content error"
+
+msgid "_no_nextcloud_found_"
+msgstr "Nextcloud server not found"
+
+msgid "_error_decompressing_"
+msgstr ""
+"Error during decompressing. Unknown compression method or the file is "
+"corrupt"
+
+msgid "_error_json_decoding_"
+msgstr ""
+"Serious internal error in decoding metadata (The data couldn't be read "
+"because it isn't in the correct format.)"
+
+msgid "_error_check_remote_user_"
+msgstr "Server responded with error, password re-entry is required"
+
+msgid "_request_entity_too_large_"
+msgstr "The file is too large"
+
+msgid "_not_possible_download_"
+msgstr "It is not possible to download the file"
+
+msgid "_not_possible_upload_"
+msgstr "It is not possible to upload the file"
+
+msgid "_error_files_upload_"
+msgstr "Error uploading files"
+
+msgid "_method_not_allowed_"
+msgstr "The requested method is not supported"
+
+msgid "_invalid_url_"
+msgstr "Invalid server URL"
+
+msgid "_invalid_literal_"
+msgstr "Invalid search string"
+
+msgid "_invalid_date_format_"
+msgstr "Invalid date format"
+
+msgid "_invalid_data_format_"
+msgstr "Invalid data format"
+
+msgid "_error_decode_xml_"
+msgstr "Invalid response, error decode XML"
+
+msgid "_internal_generic_error_"
+msgstr "internal error"
+
+msgid "_editor_unknown_"
+msgstr "Failed to open file: Editor is unknown"
+
+msgid "_err_file_not_found_"
+msgstr "File not found, removed"
+
+msgid "_err_e2ee_app_version_"
+msgstr ""
+"The app version of end-to-end encryption is not compatible with the server, "
+"please update your server"
+
+msgid "_err_permission_microphone_"
+msgstr "Please allow Microphone usage from Settings"
+
+msgid "_err_permission_photolibrary_"
+msgstr "Please allow Photos from Settings"
+
+msgid "_err_permission_locationmanager_"
+msgstr "Please allow Location - Always from Settings"
+
+msgid "_qrcode_not_authorized_"
+msgstr "This app is not authorized to use Back Camera"
+
+msgid "_qrcode_not_supported_"
+msgstr "QR code not supported by the current device"
+
+msgid "_create_voice_memo_"
+msgstr "Create voice memo"
+
+msgid "_voice_memo_start_"
+msgstr "Tap to start"
+
+msgid "_voice_memo_stop_"
+msgstr "Tap to stop"
+
+msgid "_voice_memo_filename_"
+msgstr "Voice memo"
+
+msgid "_voice_memo_title_"
+msgstr "Upload voice memo"
+
+msgid "Enter Passcode"
+msgstr "Enter Passcode"
+
+msgid "Enter a new passcode"
+msgstr "Enter a new passcode"
+
+msgid "Confirm new passcode"
+msgstr "Confirm new passcode"
+
+msgid "Passcodes didn't match. Try again."
+msgstr "Passcodes didn't match. Try again."
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "_certificate_details_"
+msgstr "Certificate Server details"
+
+msgid "_certificate_pn_details_"
+msgstr "Certificate Push Notification details"
+
+msgid "_certificate_view_"
+msgstr "Certificate Server"
+
+msgid "_certificate_pn_view_"
+msgstr "Certificate Push Notification"
+
+msgid "_save_as_scan_"
+msgstr "Save as scan"
+
+msgid "_modify_"
+msgstr "Modify"
+
+msgid "_overwrite_original_"
+msgstr "Overwrite original"
+
+msgid "_save_as_copy_"
+msgstr "Save as copy"
+
+msgid "_discard_changes_"
+msgstr "Close and discard changes"
+
+msgid "_message_disable_overwrite_livephoto_"
+msgstr "This image is a Live Photo, overwrite will not be possible"
+
+msgid "_discard_changes_info_"
+msgstr "Your changes will be discarded."
+
+msgid "_delete_files_desc_"
+msgstr "Delete files to free up space"
+
+msgid "_delete_old_files_"
+msgstr "Delete, in the cache, all files older than"
+
+msgid "_1_year_"
+msgstr "1 year"
+
+msgid "_6_months_"
+msgstr "6 months"
+
+msgid "_3_months_"
+msgstr "3 months"
+
+msgid "_1_month_"
+msgstr "1 month"
+
+msgid "_1_week_"
+msgstr "1 week"
+
+msgid "_1_day_"
+msgstr "1 day"
+
+msgid "_monthly_"
+msgstr "Monthly"
+
+msgid "_yearly_"
+msgstr "Yearly"
+
+msgid "_weekly_"
+msgstr "Weekly"
+
+msgid "_daily_"
+msgstr "Daily"
+
+msgid "_day_"
+msgstr "Day"
+
+msgid "_used_space_"
+msgstr "Used space"
+
+msgid "_open_in_onlyoffice_"
+msgstr "Open in ONLYOFFICE"
+
+msgid "_open_in_collabora_"
+msgstr "Open with Collabora Online"
+
+msgid "_login_address_detail_"
+msgstr "The link to your %@ web interface when you open it in the browser."
+
+msgid "_go_to_page_"
+msgstr "Go to page"
+
+msgid "_page_"
+msgstr "Page"
+
+msgid "_this_document_has_%@_pages_"
+msgstr "This document has %@ pages"
+
+msgid "_invalid_page_"
+msgstr "Invalid Page"
+
+msgid "_the_entered_page_number_does_not_exist_"
+msgstr "The entered page number does not exist"
+
+msgid "_error_something_wrong_"
+msgstr "Something went wrong"
+
+msgid "_resolution_"
+msgstr "Resolution"
+
+msgid "_try_download_full_resolution_"
+msgstr "Download full resolution image"
+
+msgid "_full_resolution_image_info_"
+msgstr "This may reveal more information about the photo."
+
+msgid "_copied_path_"
+msgstr "Copied path"
+
+msgid "_copy_path_"
+msgstr "Copy path"
+
+msgid "_certificates_"
+msgstr "Certificates"
+
+msgid "_privacy_screen_"
+msgstr "Splash screen when app inactive"
+
+msgid "_saving_"
+msgstr "Saving …"
+
+msgid "_video_not_streamed_"
+msgstr ""
+"The server does not allow video streaming, do you want to download it?"
+
+msgid "_video_not_streamed_e2ee_"
+msgstr ""
+"The server does not allow video streaming because it is encrypted, do you "
+"want to download it?"
+
+msgid "_scan_"
+msgstr "Scan"
+
+msgid "_in_"
+msgstr "in"
+
+msgid "_enter_passphrase_"
+msgstr "Enter passphrase (12 words)"
+
+msgid "_show_more_results_"
+msgstr "Show more results"
+
+msgid "_waiting_for_"
+msgstr "Waiting for:"
+
+msgid "_reachable_wifi_"
+msgstr "network reachable via Wi-Fi or cable"
+
+msgid "_ITMS-90076_"
+msgstr ""
+"Due to a change in the Nextcloud application identifier, the settings and "
+"password for accessing your cloud are reset, so please re-enter your account"
+" data and check your Settings. We are sorry about that."
+
+msgid "_password_not_present_"
+msgstr "Please re-insert your credentials."
+
+msgid "_copy_passphrase_"
+msgstr "Copy passphrase"
+
+msgid "_ok_copy_passphrase_"
+msgstr "OK and copy passphrase"
+
+msgid "_select_color_"
+msgstr "Select the color"
+
+msgid "_change_color_"
+msgstr "Change color"
+
+msgid "_description_dashboardwidget_"
+msgstr "Having the Dashboard always at your fingertips has never been easier."
+
+msgid "_description_fileswidget_"
+msgstr ""
+"View your recent files and use the toolbar to speed up your operations."
+
+msgid "_description_toolbarwidget_"
+msgstr "A toolbar to speed up your operations."
+
+msgid "_no_data_available_"
+msgstr "No data available"
+
+msgid "_widget_available_nc25_"
+msgstr "Widget only available starting with Nextcloud 25"
+
+msgid "_keep_running_"
+msgstr "Keep the app running for a better user experience"
+
+msgid "_recent_activity_"
+msgstr "Recent activity"
+
+msgid "_title_lockscreenwidget_"
+msgstr "Status"
+
+msgid "_description_lockscreenwidget_"
+msgstr "Keep an eye on available space and recent activity"
+
+msgid "_no_items_"
+msgstr "No items"
+
+msgid "_check_back_later_"
+msgstr "Check back later"
+
+msgid "_exporting_video_"
+msgstr "Exporting video … Tap to cancel."
+
+msgid "_apps_nextcloud_detect_"
+msgstr "Detected %@ apps"
+
+msgid "_add_existing_account_"
+msgstr ""
+"Other %@ Apps has been detected, do you want to add an existing account?"
+
+msgid "_status_in_progress_"
+msgstr "Status reading in progress …"
+
+msgid "_status_e2ee_on_server_"
+msgstr ""
+"The end-to-end encryption is already configured in the server but not yet "
+"enabled on this device"
+
+msgid "_status_e2ee_not_setup_"
+msgstr "The end-to-end encryption is not yet configured on the server"
+
+msgid "_status_e2ee_configured_"
+msgstr "The end-to-end encryption is correctly configured"
+
+msgid "_change_upload_filename_"
+msgstr "Do you want to save the file with a different name?"
+
+msgid "_save_file_as_"
+msgstr "Save file as %@"
+
+msgid "_password_ascii_"
+msgstr "The password cannot contain special characters"
+
+msgid "_calendar_contacts_"
+msgstr "Calendar and Contacts"
+
+msgid "_mobile_config_"
+msgstr "Download the configuration profile"
+
+msgid "_calendar_contacts_footer_"
+msgstr ""
+"After the downloading you need to go to the Settings app to install it. If a"
+" profile is not installed within 8 minutes of downloading it, it is "
+"automatically deleted"
+
+msgid "_preview_"
+msgstr "Preview"
+
+msgid "_crop_"
+msgstr "Crop"
+
+msgid "_modify_image_desc_"
+msgstr "Tap the image for modify"
+
+msgid "_message_disable_livephoto_"
+msgstr "This image is a Live Photo, changing it will lose the Live effect"
+
+msgid "_enable_livephoto_"
+msgstr "Enable Live Photo"
+
+msgid "_disable_livephoto_"
+msgstr "Disable Live Photo"
+
+msgid "_undo_modify_"
+msgstr "Undo the modify"
+
+msgid "_unauthorizedFilesPasscode_"
+msgstr "Files cannot be used with an activated passcode"
+
+msgid "_disableFilesApp_"
+msgstr "Files cannot be used because it is disabled"
+
+msgid "_reset_application_done_"
+msgstr "Reset application, done."
+
+msgid "_rename_already_exists_"
+msgstr "A file with this name already exists"
+
+msgid "_created_"
+msgstr "Created"
+
+msgid "_recipients_"
+msgstr "Recipients"
+
+msgid "_are_sure_"
+msgstr "Are you sure?"
+
+msgid "_creation_"
+msgstr "Creation"
+
+msgid "_modified_"
+msgstr "Modified"
+
+msgid "_group_folders_"
+msgstr "Group folders"
+
+msgid "_play_from_files_"
+msgstr "Play movie by Files"
+
+msgid "_play_from_url_"
+msgstr "Play movie by URL"
+
+msgid "_valid_video_url_"
+msgstr "Insert a valid URL"
+
+msgid "_deletion_progess_"
+msgstr "Deletion in progress"
+
+msgid "_copying_progess_"
+msgstr "Copying in progress"
+
+msgid "_moving_progess_"
+msgstr "Moving in progress"
+
+msgid "_chunk_enough_memory_"
+msgstr "It seems there is not enough space to send the file"
+
+msgid "_chunk_create_folder_"
+msgstr "The file could not be sent, please check the server log"
+
+msgid "_chunk_files_null_"
+msgstr "The file for sending could not be created"
+
+msgid "_chunk_file_null_"
+msgstr "The file could not be sent"
+
+msgid "_chunk_move_"
+msgstr "The sent file could not be reassembled, please check the server log"
+
+msgid "_download_image_"
+msgstr "Download image"
+
+msgid "_download_video_"
+msgstr "Download video"
+
+msgid "_reset_wrong_passcode_"
+msgstr "Reset application"
+
+msgid "_reset_wrong_passcode_desc_"
+msgstr ""
+"Use \\\"Reset application\\\" to remove all accounts and local data after %d"
+" failed code entry attempts."
+
+msgid "_deviceOwnerAuthentication_"
+msgstr ""
+"The biometric sensor has been temporarily disabled due to multiple failed "
+"attempts. Enter the device passcode to re-enable the sensor."
+
+msgid "_select_trace_"
+msgstr "Select the trace"
+
+msgid "_video_processing_"
+msgstr "Video processing"
+
+msgid "_video_being_processed_"
+msgstr "Video being processed …"
+
+msgid "_downloading_"
+msgstr "Downloading"
+
+msgid "_download_error_"
+msgstr "Download error"
+
+msgid "_subtitle_"
+msgstr "Subtitle"
+
+msgid "_dts_to_ac3_"
+msgstr "The DTS is not supported, it requires a conversion to Dolby Digital"
+
+msgid "_reuired_conversion_"
+msgstr "This video takes a long time to convert."
+
+msgid "_stay_app_foreground_"
+msgstr "Keep the app in the foreground …"
+
+msgid "_conversion_available_"
+msgstr "The conversion is always available on menu"
+
+msgid "_video_format_not_recognized_"
+msgstr ""
+"This video needs to be processed to be played, do you want to do it now?"
+
+msgid "_video_must_download_"
+msgstr ""
+"This video needs to be downloaded and processed to be played, do you want to"
+" do it now?"
+
+msgid "_conversion_max_compatibility_"
+msgstr "Max compatibility, the conversion can take much longer"
+
+msgid "_video_tap_for_close_"
+msgstr "A slight pressure to close the processing"
+
+msgid "_subtitle_not_found_"
+msgstr "Subtitle not found"
+
+msgid "_disable_"
+msgstr "Disable"
+
+msgid "_subtitle_not_dowloaded_"
+msgstr "There are subtitles not downloaded locally"
+
+msgid "_user_"
+msgstr "User"
+
+msgid "_add_subtitle_"
+msgstr "Add an external subtitle"
+
+msgid "_add_audio_"
+msgstr "Add an external audio"
+
+msgid "_maintenance_mode_"
+msgstr "Server is currently in maintenance mode"
+
+msgid "_upload_foreground_msg_"
+msgstr "Do not close %@ to complete the transfer …"
+
+msgid "_tip_pdf_thumbnails_"
+msgstr "Swipe left from the right edge of the screen to show the thumbnails."
+
+msgid "_tip_accountrequest_"
+msgstr "Touch here to change account or to add a new one"
+
+msgid "_tip_addcopyimage_"
+msgstr "Long press to paste a copied image"
+
+msgid "_tip_open_mediadetail_"
+msgstr "Swipe up to show the details"
+
+msgid "_cart_controller_"
+msgstr "Card controller"
+
+msgid "_accessibility_add_upload_"
+msgstr "Add and upload"
+
+msgid "_dismiss_menu_"
+msgstr "Dismiss the menu"
+
+msgid "_show_profile_"
+msgstr "Show profile"
+
+msgid "_on_"
+msgstr "On"
+
+msgid "_off_"
+msgstr "Off"
+
+msgid "_grid_view_"
+msgstr "Show grid view"
+
+msgid "_list_view_"
+msgstr "Show list view"
+
+msgid "_leave_plan_title"
+msgstr "We're sorry to see you go"
+
+msgid "_leave_plan_description"
+msgstr "You'll no longer have access to:"
+
+msgid "_current_plan_"
+msgstr "Current Plan"
+
+msgid "_billing_plan_"
+msgstr "Billing Plan"
+
+msgid "_keep_plan_"
+msgstr "Keep Plan"
+
+msgid "_leave_plan_"
+msgstr "Leave Plan"
+
+msgid "_change_plan_"
+msgstr "Change Plan"
+
+msgid "_manage_plan_"
+msgstr "Manage Plan"
+
+msgid "_purchase_plan_"
+msgstr "Purchase Plan"
+
+msgid "_restore_plan_"
+msgstr "Restore Purchased Plan"
+
+msgid "_purchase_plan_description_"
+msgstr "Purchases have been restored"
+
+msgid "_choose_plan_"
+msgstr "You should choose a plan in order to purchase it."
+
+msgid "_already_plan_"
+msgstr "The selected plan has already been bought."
+
+msgid "_change_billing_"
+msgstr "Change Billing"
+
+msgid "_payment_method_"
+msgstr "Payment Method"
+
+msgid "Mantis.Done"
+msgstr "Done"
+
+msgid "Mantis.Cancel"
+msgstr "Cancel"
+
+msgid "Mantis.Reset"
+msgstr "Reset"
+
+msgid "Mantis.Original"
+msgstr "Original"
+
+msgid "Mantis.Square"
+msgstr "Square"

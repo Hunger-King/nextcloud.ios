@@ -4,12 +4,16 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2007-10-18 14:00+0100\n"
-"Last-Translator: you <you@example.com>\n"
-"Language-Team: zh_Hant <yourteam@example.com>\n"
+"PO-Revision-Date: 2023-12-30 15:08+0000\n"
+"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
+"nextcloud/ios/zh_Hant/>\n"
+"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 msgid "_itunes_"
 msgstr "iTunes"
@@ -18,10 +22,10 @@ msgid "_cancel_"
 msgstr "取消"
 
 msgid "_tap_to_cancel_"
-msgstr "Tap to cancel"
+msgstr "輕點以取消"
 
 msgid "_cancel_request_"
-msgstr "Do you want to cancel?"
+msgstr "您想要取消嗎？"
 
 msgid "_upload_file_"
 msgstr "上傳檔案"
@@ -30,19 +34,19 @@ msgid "_download_file_"
 msgstr "下載檔案"
 
 msgid "_loading_"
-msgstr "載入中"
+msgstr "正在載入"
 
 msgid "_loading_with_points_"
 msgstr "正在載入……"
 
 msgid "_loading_num_"
-msgstr "載入檔案 %i 中"
+msgstr "正在載入檔案 %i"
 
 msgid "_loading_autoupload_"
-msgstr "自動上傳中"
+msgstr "正在自動上傳"
 
 msgid "_uploading_"
-msgstr "上傳中"
+msgstr "正在上傳"
 
 msgid "_synchronization_"
 msgstr "同步"
@@ -69,13 +73,13 @@ msgid "_move_file_n_"
 msgstr "移動 %i 個中 %i 個的檔案"
 
 msgid "_creating_sharing_"
-msgstr "建立分享中"
+msgstr "正在建立分享"
 
 msgid "_updating_sharing_"
-msgstr "更新分享中"
+msgstr "正在更新分享"
 
 msgid "_removing_sharing_"
-msgstr "移除分享中"
+msgstr "正在移除分享"
 
 msgid "_add_"
 msgstr "新增"
@@ -99,10 +103,10 @@ msgid "_yes_"
 msgstr "是"
 
 msgid "_select_"
-msgstr "選擇"
+msgstr "選取"
 
 msgid "_deselect_"
-msgstr "清除選擇"
+msgstr "清除選取"
 
 msgid "_select_all_"
 msgstr "全選"
@@ -117,7 +121,7 @@ msgid "_files_"
 msgstr "檔案"
 
 msgid "_home_dir_"
-msgstr "家"
+msgstr "首頁"
 
 msgid "_file_to_upload_"
 msgstr "要上傳的檔案"
@@ -129,7 +133,7 @@ msgid "_ok_"
 msgstr "確定"
 
 msgid "_beta_version_"
-msgstr "公測版本"
+msgstr "測試版本"
 
 msgid "_function_in_testing_"
 msgstr "功能在測試中，請傳送您遇到的任何問題的資訊。"
@@ -141,10 +145,10 @@ msgid "_clear_"
 msgstr "清除"
 
 msgid "_passcode_too_short_"
-msgstr "密碼太短，至少需要4個的字元。"
+msgstr "密碼太短，至少需要 4 個字元"
 
 msgid "_selected_"
-msgstr "已選擇"
+msgstr "已選取"
 
 msgid "_scan_fingerprint_"
 msgstr "掃描指紋以驗證"
@@ -165,10 +169,10 @@ msgid "_video_"
 msgstr "影片"
 
 msgid "_overwrite_"
-msgstr "複寫"
+msgstr "覆寫"
 
 msgid "_transfers_in_queue_"
-msgstr "Transfers in progress, please wait …"
+msgstr "正在進行轉移，請稍候……"
 
 msgid "_too_errors_upload_"
 msgstr "太多錯誤，請檢視問題"
@@ -177,7 +181,7 @@ msgid "_create_folder_"
 msgstr "建立資料夾"
 
 msgid "_create_folder_e2ee_"
-msgstr "Create encrypted folder"
+msgstr "建立加密資料夾"
 
 msgid "_create_folder_on_"
 msgstr "建立資料夾在"
@@ -198,7 +202,7 @@ msgid "_continue_"
 msgstr "繼續"
 
 msgid "_continue_editing_"
-msgstr "Continue editing"
+msgstr "繼續編輯"
 
 msgid "_continue_request_"
 msgstr "請問您想要繼續嗎？"
@@ -207,13 +211,13 @@ msgid "_auto_upload_folder_"
 msgstr "自動上傳"
 
 msgid "_gallery_"
-msgstr "畫廊"
+msgstr "圖庫"
 
 msgid "_photo_"
 msgstr "照片"
 
 msgid "_audio_"
-msgstr "音樂"
+msgstr "音訊"
 
 msgid "_unknown_"
 msgstr "不明"
@@ -228,13 +232,13 @@ msgid "_initialization_"
 msgstr "初始化"
 
 msgid "_experimental_"
-msgstr "實驗用的"
+msgstr "實驗性"
 
 msgid "_select_dir_media_tab_"
 msgstr "選取成為「媒體」資料夾"
 
 msgid "_error_creation_file_"
-msgstr "Oops! Could not create the file"
+msgstr "喔不！無法建立檔案"
 
 msgid "_save_path_"
 msgstr "儲存路徑"
@@ -243,33 +247,34 @@ msgid "_save_settings_"
 msgstr "儲存設定"
 
 msgid "_mode_filename_"
-msgstr "檔名類型"
+msgstr "檔案名稱模式"
 
 msgid "_warning_owncloud_"
 msgstr ""
-"您正在連線到一台ownCloud伺服器。這是未測試及未支援，須自行承擔風險。升級到Nextcloud, 請看 "
-"https://nextcloud.com/migration"
+"您正連線至 ownCloud 伺服器。這個動作未經測試且不受支援，使用風險自負。"
+"要升級至 Nextcloud，請參閱 https://nextcloud.com/migration"
 
 msgid "_warning_unsupported_"
-msgstr "您正在使用一個未支援的Nextcloud版本。為了您的資料的安全我們建議您更新到最穩定的Nextcloud"
+msgstr "您正使用不受支援版本的 Nextcloud。為了您資料的安全，"
+"我們強烈建議更新至最新穩定版的 Nextcloud"
 
 msgid "_restore_"
-msgstr "回復"
+msgstr "復原"
 
 msgid "_camera_roll_"
 msgstr "相機膠卷"
 
 msgid "_tap_here_to_change_"
-msgstr "點擊->變更"
+msgstr "輕點此處以變更"
 
 msgid "_no_albums_"
 msgstr "無相簿"
 
 msgid "_denied_album_"
-msgstr "此應用程式不能存取「照片」，您可以在隱私權設定內開啟存取。"
+msgstr "此應用程式無法存取「照片」，您可以在隱私權設定內啟用存取權"
 
 msgid "_denied_camera_"
-msgstr "此應用程式不能存取「相機」，您可以在隱私權設定內開啟存取。"
+msgstr "此應用程式無法存取「相機」，您可以在隱私權設定內啟用存取權"
 
 msgid "_start_"
 msgstr "開始"
@@ -281,16 +286,16 @@ msgid "_purchase_"
 msgstr "購買"
 
 msgid "_account_not_available_"
-msgstr "%@的帳號 %@不存在，請增加它讓它可以讀取檔案 %@"
+msgstr "帳號 %@ 的 %@ 不存在，請新增它才能讀取檔案 %@"
 
 msgid "_the_account_"
-msgstr "The account"
+msgstr "帳號"
 
 msgid "_does_not_exist_"
-msgstr "does not exist"
+msgstr "不存在"
 
 msgid "_error_parameter_schema_"
-msgstr "錯誤的參數，無法繼續。"
+msgstr "參數錯誤，無法繼續"
 
 msgid "_comments_"
 msgstr "留言"
@@ -299,40 +304,40 @@ msgid "_sharing_"
 msgstr "分享"
 
 msgid "_details_"
-msgstr "詳細資料"
+msgstr "詳細資訊"
 
 msgid "_sub_details_"
-msgstr "Subscription Details"
+msgstr "訂閱詳細資訊"
 
 msgid "_subscriptions_"
-msgstr "Subscriptions"
+msgstr "訂閱"
 
 msgid "_dark_mode_"
 msgstr "深色模式"
 
 msgid "_dark_mode_detect_"
-msgstr "偵測iOS的深色模式"
+msgstr "偵測 iOS 的深色模式"
 
 msgid "_screen_"
 msgstr "螢幕顯示"
 
 msgid "_wipe_account_"
-msgstr "已從伺服器移除帳號"
+msgstr "已從伺服器抹除帳號"
 
 msgid "_appconfig_view_title_"
-msgstr "Account configuration in progress …"
+msgstr "正在進行帳號設定……"
 
 msgid "_no_permission_add_file_"
-msgstr "你沒有權限新增檔案"
+msgstr "您無權新增檔案"
 
 msgid "_no_permission_delete_file_"
-msgstr "您不被允許刪除檔案"
+msgstr "您無權刪除檔案"
 
 msgid "_no_permission_modify_file_"
-msgstr "您不被允許修改檔案"
+msgstr "您無權修改檔案"
 
 msgid "_request_upload_new_ver_"
-msgstr "The file has been modified, do you want to upload the new version?"
+msgstr "檔案已修改，您想要上傳新的版本嗎？"
 
 msgid "_add_folder_info_"
 msgstr "新增資料夾資訊"
@@ -350,16 +355,16 @@ msgid "_internal_modify_"
 msgstr "使用內部編輯器編輯"
 
 msgid "_database_corrupt_"
-msgstr "糟糕了發生一些錯誤，請輸入你的憑證，但是也不要擔心，你的檔案還是安全的。"
+msgstr "糟糕，出了一點問題，請輸入您的憑證，但不用擔心，您的檔案仍是安全的"
 
 msgid "_download_locally_"
-msgstr "Download locally"
+msgstr "本機下載"
 
 msgid "_livephoto_save_"
 msgstr "儲存原況照片到相簿"
 
 msgid "_livephoto_save_error_"
-msgstr "儲存原況照片的時候發生錯誤"
+msgstr "儲存原況照片時發生錯誤"
 
 msgid "_file_conflict_num_"
 msgstr "檔案衝突"
@@ -374,10 +379,10 @@ msgid "_file_conflict_new_"
 msgstr "新增檔案"
 
 msgid "_file_conflict_exists_"
-msgstr "已經存在的檔案"
+msgstr "既有的檔案"
 
 msgid "_file_not_rewite_doc_"
-msgstr "不可能複寫一個文件而只能建立一個新的。"
+msgstr "無法覆寫文件，只能建立新的"
 
 msgid "_move_or_copy_"
 msgstr "移動或複製"
@@ -401,7 +406,7 @@ msgid "_view_in_folder_"
 msgstr "在資料夾中檢視"
 
 msgid "_leave_share_"
-msgstr "保留此分享"
+msgstr "離開此分享"
 
 msgid "_premium_"
 msgstr "Premium"
@@ -413,31 +418,31 @@ msgid "_current_"
 msgstr "目前"
 
 msgid "_buy_"
-msgstr "Buy"
+msgstr "購買"
 
 msgid "_disabled_"
-msgstr "Disabled"
+msgstr "已停用"
 
 msgid "_lock_file_"
-msgstr "上鎖檔案"
+msgstr "鎖定檔案"
 
 msgid "_unlock_file_"
 msgstr "解鎖檔案"
 
 msgid "_lock_selected_files_"
-msgstr "Lock files"
+msgstr "鎖定檔案"
 
 msgid "_unlock_selected_files_"
-msgstr "Unlock files"
+msgstr "解鎖檔案"
 
 msgid "_locked_by_"
-msgstr "Locked by %@"
+msgstr "被 %@ 鎖定"
 
 msgid "_file_locked_no_override_"
-msgstr "This file is locked. It cannot be overridden."
+msgstr "此檔案已被鎖定。無法覆寫。"
 
 msgid "_remove_file_"
-msgstr "Remove file"
+msgstr "移除檔案"
 
 msgid "_delete_file_"
 msgstr "刪除檔案"
@@ -452,22 +457,22 @@ msgid "_delete_video_"
 msgstr "刪除影片"
 
 msgid "_automatic_Download_Image_"
-msgstr "使用全解析度圖片"
+msgstr "使用完整解析度影像"
 
 msgid "_automatic_Download_Image_footer_"
-msgstr "觀賞圖片時當本地端沒有該圖片就總是下載全解析度圖片"
+msgstr "檢視影像時，若本機未提供，則一律下載完整解析度影像"
 
 msgid "_size_"
 msgstr "大小"
 
 msgid "_file_size_"
-msgstr "Exported file size"
+msgstr "已匯出的檔案大小"
 
 msgid "_dimension_"
 msgstr "尺寸"
 
 msgid "_duration_"
-msgstr "期間"
+msgstr "期限"
 
 msgid "_model_"
 msgstr "型號"
@@ -482,7 +487,7 @@ msgid "_rename_ext_title_"
 msgstr "變更檔案類型？"
 
 msgid "_rename_ext_message_"
-msgstr "如果你把它從 .%@ 變更成 %@ 那麼這檔案可能會有不同的應用行為。"
+msgstr "若將此檔案從 %@ 變更為 %@，其行為可能會有所不同"
 
 msgid "_use_"
 msgstr "使用"
@@ -494,7 +499,7 @@ msgid "_account_request_"
 msgstr "請求帳號"
 
 msgid "_settings_account_request_"
-msgstr "在開始的時候請求帳號"
+msgstr "啟動時請求帳號"
 
 msgid "_print_"
 msgstr "列印"
@@ -503,31 +508,33 @@ msgid "_alias_"
 msgstr "別名"
 
 msgid "_alias_footer_"
-msgstr "為你的帳號名稱取一個描述名，比方說 住家、辦公室、學校‥"
+msgstr "為您的帳號取一個描述性的名稱，例如家庭、辦公室、學校……"
 
 msgid "_chunk_size_mb_"
-msgstr "片段大小以MB為單位"
+msgstr "區塊大小，以 MB 為單位"
 
 msgid "_chunk_footer_title_"
-msgstr "以片段檔案上傳（0表示關閉）\\n重要︰以片段檔案上傳只能當這應用程式是「active」活著的"
+msgstr ""
+"區塊檔案上傳（0 為停用）\\n"
+"重要：區塊上傳僅在應用程式狀態為「作用中」時才能運作。"
 
 msgid "_privacy_legal_"
-msgstr "Privacy and Legal Policy"
+msgstr "隱私權與法律政策"
 
 msgid "_source_code_"
 msgstr "取得原始程式碼"
 
 msgid "_account_select_"
-msgstr "選擇帳號"
+msgstr "選取帳號"
 
 msgid "_account_select_to_add_"
-msgstr "Select the account to add"
+msgstr "選取要新增的帳號"
 
 msgid "_host_insert_"
 msgstr "插入主機名稱，例如︰"
 
 msgid "_certificate_not_found_"
-msgstr "在文件目錄中沒找到檔案 %@"
+msgstr "在文件目錄中找不到檔案 %@。"
 
 msgid "_copy_failed_"
 msgstr "複製失敗"
@@ -536,16 +543,16 @@ msgid "_certificate_installed_"
 msgstr "憑證已安裝"
 
 msgid "_remove_local_account_"
-msgstr "Remove local account"
+msgstr "移除本機帳號"
 
 msgid "_want_delete_account_"
-msgstr "Do you want to remove local account %@"
+msgstr "您想要移除本機帳號 %@ 嗎"
 
 msgid "_prevent_http_redirection_"
-msgstr "HTTP 重新導向不被允許"
+msgstr "不允許 HTTP 重新導向"
 
 msgid "_pdf_vertical_"
-msgstr "PDF 垂直顯示"
+msgstr "PDF 縱向顯示"
 
 msgid "_pdf_horizontal_"
 msgstr "PDF 橫向顯示"
@@ -554,40 +561,40 @@ msgid "_single_file_conflict_title_"
 msgstr "檔案衝突"
 
 msgid "_multi_file_conflict_title_"
-msgstr "%@檔案衝突"
+msgstr "%@ 檔案衝突"
 
 msgid "_replace_action_title_"
-msgstr "置換"
+msgstr "取代"
 
 msgid "_keep_both_action_title_"
-msgstr "保留兩者"
+msgstr "兩者皆保留"
 
 msgid "_cancel_keep_existing_action_title_"
-msgstr "取消而保留原本的"
+msgstr "取消並保留既有的"
 
 msgid "_replace_all_action_title_"
-msgstr "全部都取代"
+msgstr "全部取代"
 
 msgid "_keep_both_for_all_action_title_"
-msgstr "全部都保留兩者"
+msgstr "全部皆保留兩者"
 
 msgid "_more_action_title_"
-msgstr "更多細節"
+msgstr "更多詳細資訊"
 
 msgid "_wait_file_preparation_"
-msgstr "Please wait, upload file in preparation"
+msgstr "請稍候，正準備上傳檔案"
 
 msgid "_wait_file_encryption_"
-msgstr "Please wait, file encryption"
+msgstr "請稍候，正在加密檔案"
 
 msgid "_passcode_counter_fail_"
-msgstr "Failed attempts, please wait"
+msgstr "嘗試失敗，請稍候"
 
 msgid "_seconds_"
-msgstr "秒鐘"
+msgstr "秒"
 
 msgid "_use_as_background_"
-msgstr "把它當成背景圖片"
+msgstr "將其作為背景圖片"
 
 msgid "_background_"
 msgstr "背景圖片"
@@ -605,16 +612,16 @@ msgid "_away_"
 msgstr "離開"
 
 msgid "_dnd_"
-msgstr "別打擾"
+msgstr "請勿打擾"
 
 msgid "_dnd_description_"
-msgstr "所有通知靜音"
+msgstr "將所有通知靜音"
 
 msgid "_invisible_"
-msgstr "隱形"
+msgstr "不可見"
 
 msgid "_invisible_description_"
-msgstr "顯示離線"
+msgstr "顯示為離線"
 
 msgid "_status_message_"
 msgstr "狀態訊息"
@@ -632,10 +639,10 @@ msgid "_set_status_message_"
 msgstr "設定狀態訊息"
 
 msgid "_clear_status_message_after_"
-msgstr "清除狀態訊息在這段時間之後"
+msgstr "清除下列時間後的狀態訊息"
 
 msgid "_select_option_"
-msgstr "選擇選項"
+msgstr "選取選項"
 
 msgid "_dont_clear_"
 msgstr "不要清除"
@@ -644,7 +651,7 @@ msgid "_30_minutes_"
 msgstr "30分鐘"
 
 msgid "_an_hour_"
-msgstr "一個小時"
+msgstr "1小時"
 
 msgid "_1_hour_"
 msgstr "1小時"
@@ -656,7 +663,7 @@ msgid "day"
 msgstr "今天"
 
 msgid "_this_week_"
-msgstr "這個禮拜"
+msgstr "本週"
 
 msgid "_days_"
 msgstr "天"
@@ -674,10 +681,10 @@ msgid "_network_not_available_"
 msgstr "網路無法使用"
 
 msgid "_file_too_big_"
-msgstr "檔案太大, 無法加密/解密"
+msgstr "檔案太大，無法加密/解密"
 
 msgid "_file_too_big_max_100_"
-msgstr "檔案太大 (不可超過 100 kb.)"
+msgstr "檔案太大（最大 100 kb）"
 
 msgid "_...loading..._"
 msgstr "正在載入……"
@@ -686,19 +693,19 @@ msgid "_download_plist_"
 msgstr " "
 
 msgid "_no_reuploadfile_"
-msgstr "雲端找不到檔案也不能重傳檔案。請刪除上傳的檔案並重新讀取檔案再上傳它。"
+msgstr "找不到也無法重新傳送檔案。刪除上傳的檔案並重新載入檔案即可上傳。"
 
 msgid "_file_already_exists_"
-msgstr "無法完成指令, 因為已存在相同檔名"
+msgstr "無法完成操作，已存在相同名稱的檔案"
 
 msgid "_read_file_error_"
-msgstr "無法讀取檔案。"
+msgstr "無法讀取檔案"
 
 msgid "_write_file_error_"
 msgstr "無法寫入檔案"
 
 msgid "_files_lock_error_"
-msgstr "There was an error changing the lock of this file"
+msgstr "變更此檔案的鎖定時發生錯誤"
 
 msgid "_more_"
 msgstr "更多"
@@ -716,7 +723,7 @@ msgid "_quota_space_unknown_"
 msgstr "不明"
 
 msgid "_quota_using_"
-msgstr "您已經使用%@/%@的檔案空間"
+msgstr "您已使用 %@，總共有 %@"
 
 msgid "_acknowledgements_"
 msgstr "致謝"
@@ -728,25 +735,25 @@ msgid "_passcode_"
 msgstr "密碼"
 
 msgid "_enter_password_"
-msgstr "Enter password …"
+msgstr "輸入密碼……"
 
 msgid "_lock_"
-msgstr "上鎖"
+msgstr "鎖定"
 
 msgid "_lock_active_"
-msgstr "已鎖定"
+msgstr "鎖定：開啟"
 
 msgid "_lock_not_active_"
-msgstr "未鎖定"
+msgstr "鎖定：關閉"
 
 msgid "_lock_protection_no_screen_"
-msgstr "啟動勿詢問"
+msgstr "啟動時不詢問"
 
 msgid "_lock_protection_no_screen_footer_"
-msgstr "Use \\\"Do not ask at startup\\\" for the encryption option."
+msgstr "使用「啟動時不詢問」作為加密選項。"
 
 msgid "_enable_touch_face_id_"
-msgstr "開啟Touch/Face ID"
+msgstr "啟用 Touch/Face ID"
 
 msgid "_url_"
 msgstr "URL"
@@ -758,7 +765,7 @@ msgid "_change_credentials_"
 msgstr "變更您的憑證"
 
 msgid "_wifi_only_"
-msgstr "只使用Wi-Fi連線"
+msgstr "僅使用 Wi-Fi 連線"
 
 msgid "_settings_autoupload_"
 msgstr "自動上傳"
@@ -776,36 +783,34 @@ msgid "_clear_cache_"
 msgstr "清除快取"
 
 msgid "_clear_cache_footer_"
-msgstr "從應用程式內清除已下載且離線的檔案"
+msgstr "清除應用程式中下載的檔案與離線檔案"
 
 msgid "_exit_"
-msgstr "重置應用軟體"
+msgstr "重設應用程式"
 
 msgid "_exit_footer_"
-msgstr "移除應用程式內全部的帳號以及本地資料"
+msgstr "從應用程式中刪除所有帳號與本機資料"
 
 msgid "_funct_not_enabled_"
 msgstr "功能尚未啟用"
 
 msgid "_passcode_activate_"
-msgstr "密碼鎖定中"
+msgstr "密碼鎖定開啟"
 
 msgid "_disabling_passcode_"
-msgstr "移除鎖定的密碼"
+msgstr "移除密碼鎖定"
 
 msgid "_want_exit_"
 msgstr "請注意！將會重設到初始狀態。要繼續嗎？"
 
 msgid "_proceed_"
-msgstr "進行"
+msgstr "繼續"
 
 msgid "_delete_cache_"
 msgstr "刪除快取"
 
 msgid "_want_delete_cache_"
-msgstr ""
-"Do you want to delete the cache (this also removes the transfers in "
-"progress)?"
+msgstr "您想要刪除快取（這也會移除正在進行的傳輸）嗎？"
 
 msgid "_want_delete_thumbnails_"
 msgstr "您也想刪除所有的縮圖嗎？"
@@ -820,7 +825,7 @@ msgid "_mail_sent_"
 msgstr "電子郵件已傳送"
 
 msgid "_mail_failure_"
-msgstr "無法傳送郵件: %@"
+msgstr "無法傳送電子郵件：%@"
 
 msgid "_information_req_"
 msgstr "資訊請求"
@@ -844,19 +849,19 @@ msgid "_delete_account_"
 msgstr "移除帳號"
 
 msgid "_delete_active_account_"
-msgstr "Remove active account"
+msgstr "移除作用中帳號"
 
 msgid "_want_delete_"
 msgstr "您真的想刪除嗎？"
 
 msgid "_no_delete_"
-msgstr "不，不要刪除。"
+msgstr "不，不要刪除"
 
 msgid "_yes_delete_"
-msgstr "是，刪除。"
+msgstr "是，刪除"
 
 msgid "_remove_cache_"
-msgstr "Deleting cache, please wait …"
+msgstr "正在刪除快取，請稍候……"
 
 msgid "_optimizations_"
 msgstr "最佳化"
@@ -868,13 +873,13 @@ msgid "_version_server_"
 msgstr "伺服器版本"
 
 msgid "_help_"
-msgstr "幫助"
+msgstr "說明"
 
 msgid "_change_simply_passcode_"
-msgstr "改變密碼類型"
+msgstr "變更密碼類型"
 
 msgid "_quota_"
-msgstr "用量"
+msgstr "配額"
 
 msgid "_available_"
 msgstr "可用"
@@ -913,10 +918,10 @@ msgid "_user_job_"
 msgstr "工作"
 
 msgid "_user_businesssize_"
-msgstr "商業規模"
+msgstr "企業大小"
 
 msgid "_user_businesstype_"
-msgstr "商業型態"
+msgstr "企業類型"
 
 msgid "_user_city_"
 msgstr "城市"
@@ -943,21 +948,19 @@ msgid "_user_contractor_"
 msgstr "承包商"
 
 msgid "_user_editprofile_"
-msgstr "編輯個人設定"
+msgstr "編輯個人檔案"
 
 msgid "_select_offline_warning_"
-msgstr ""
-"Making multiple files and folders available offline may take a while and use"
-" a lot of memory while doing so."
+msgstr "讓多個檔案與資料夾可供離線使用可能需要一段時間，並且會佔用大量記憶體。"
 
 msgid "_advanced_"
 msgstr "進階"
 
 msgid "_permissions_"
-msgstr "Permissions"
+msgstr "權限"
 
 msgid "_disable_files_app_"
-msgstr "關閉檔案應用程式的整合"
+msgstr "停用檔案應用程式的整合"
 
 msgid "_disable_files_app_footer_"
 msgstr "不允許透過 iOS 檔案應用程式存取檔案"
@@ -969,13 +972,13 @@ msgid "_trial_expired_day_"
 msgstr "天的剩餘時間"
 
 msgid "_time_remaining_"
-msgstr "%@ remaining"
+msgstr "剩餘 %@"
 
 msgid "_disableLocalCacheAfterUpload_footer_"
-msgstr "上傳檔案後，不在本機快取保留它"
+msgstr "上傳檔案後，不要保留在本機快取中"
 
 msgid "_disableLocalCacheAfterUpload_"
-msgstr "關閉本機快取"
+msgstr "停用本機快取"
 
 msgid "_autoupload_"
 msgstr "自動上傳照片/影片"
@@ -999,13 +1002,14 @@ msgid "_autoupload_description_"
 msgstr "新的照片 / 影片將自動上傳到您的 Nextcloud"
 
 msgid "_autoupload_description_background_"
-msgstr "此選項需要GPS的使用來發現當位置有明顯的改變時觸發相機膠卷內新的照片/影片的偵測"
+msgstr "此選項需要使用 GPS 在位置發生顯著變化時觸發相機膠卷中新照片/影片的偵測"
 
 msgid "_autoupload_background_title_"
 msgstr "限制"
 
 msgid "_autoupload_background_msg_"
-msgstr "因為iOS的限制，目前尚未有可能可以執行背景處理，除非GPS的服務被啟動。一旦行動網路被改變，系統會啟動一下子並檢查要上傳到雲端的新照片。"
+msgstr "因為 iOS 的限制，除非啟動 GPS 服務，否則尚無法執行背景作業。一旦行動網路有所"
+"變更，系統就會短暫喚醒並檢查是否有新照片上傳到雲端。"
 
 msgid "_autoupload_change_location_"
 msgstr "變更資料夾"
@@ -1020,7 +1024,7 @@ msgid "_autoupload_change_location_footer_"
 msgstr "變更給「自動上傳相機照片」使用的資料夾"
 
 msgid "_autoupload_not_select_home_"
-msgstr "選擇資料夾"
+msgstr "選取資料夾"
 
 msgid "_autoupload_save_album_"
 msgstr "複製照片或影片到照片相簿"
@@ -1032,19 +1036,19 @@ msgid "_autoupload_fullphotos_footer_"
 msgstr "上傳前請先調整上面的選項"
 
 msgid "_autoupload_create_subfolder_"
-msgstr "使用子目錄"
+msgstr "使用子資料夾"
 
 msgid "_autoupload_create_subfolder_footer_"
-msgstr "Store in subfolders based on year, month or daily"
+msgstr "按年、月或日儲存在子資料夾中"
 
 msgid "_autoupload_subfolder_granularity_"
-msgstr "Subfolder Granularity"
+msgstr "子資料夾細膩程度"
 
 msgid "_autoupload_filenamemask_"
-msgstr "更改檔案名稱遮罩"
+msgstr "變更檔案名稱遮罩"
 
 msgid "_autoupload_filenamemask_footer_"
-msgstr "更動自動檔案名稱遮照"
+msgstr "變更自動檔案名稱遮罩"
 
 msgid "_autoupload_current_folder_"
 msgstr "已選取的資料夾"
@@ -1053,7 +1057,7 @@ msgid "_help_tutorial_"
 msgstr "教學"
 
 msgid "_help_intro_"
-msgstr "Nextcloud的介紹"
+msgstr "Nextcloud 的介紹"
 
 msgid "_help_activity_verbose_"
 msgstr "詳細的活動動態 feed"
@@ -1071,10 +1075,10 @@ msgid "_format_compatibility_"
 msgstr "大部分相容"
 
 msgid "_format_compatibility_footer_"
-msgstr "可能的話，「大部分相容」會將照片存成 JPEG"
+msgstr "可能的話，「大部分相容」會將照片存成 JPEG。"
 
 msgid "_terms_"
-msgstr "Terms of Service"
+msgstr "服務條款"
 
 msgid "_privacy_"
 msgstr "隱私"
@@ -1083,19 +1087,20 @@ msgid "_privacy_policy_"
 msgstr "隱私權政策"
 
 msgid "_privacy_footer_"
-msgstr "Nextcloud iOS 使用一個當機分析的服務。您的個人資訊不會隨著報告傳送。若您想關閉它，請改變設定「關閉 當機 回報器」到啟用。"
+msgstr "Nextcloud iOS 使用當機分析的服務。您的個人資訊不會隨著報告傳送。若您想停用它"
+"，請將「停用當機回報程式」設定變更為開啟"
 
 msgid "_crashservice_title_"
-msgstr "關閉 當機 回報器"
+msgstr "停用當機回報程式"
 
 msgid "_crashservice_alert_"
-msgstr "此選項需要應用程式的重啟來生效"
+msgstr "此選項需要重新啟動應用程式才會生效"
 
 msgid "_upload_mov_livephoto_"
 msgstr "原況照片"
 
 msgid "_upload_mov_livephoto_footer_"
-msgstr "可能的話，「原況照片」會將選擇的照片存成「原況照片」格式"
+msgstr "可能的話，「原況照片」會將選擇的照片存成「原況照片」格式。"
 
 msgid "_view_capabilities_"
 msgstr "檢視提供的功能"
@@ -1104,25 +1109,25 @@ msgid "_capabilities_"
 msgstr "提供的功能"
 
 msgid "_no_capabilities_found_"
-msgstr "未找到提供的功能"
+msgstr "找不到提供的功能"
 
 msgid "_diagnostics_"
 msgstr "診斷"
 
 msgid "_view_log_"
-msgstr "View log file"
+msgstr "檢視紀錄檔"
 
 msgid "_clear_log_"
-msgstr "Clear log file"
+msgstr "清除紀錄檔"
 
 msgid "_level_log_"
-msgstr "設定紀錄等級（關閉、標準、最詳細）"
+msgstr "設定紀錄層級（停用、標準、最詳細）"
 
 msgid "_connect_server_anyway_"
-msgstr "無論如何您都想要連線到伺服器？"
+msgstr "您仍想連線到伺服器嗎？"
 
 msgid "_server_is_trusted_"
-msgstr "Do you consider this server trusted?"
+msgstr "您認為此伺服器可信嗎？"
 
 msgid "_connection_error_"
 msgstr "連線錯誤"
@@ -1134,13 +1139,13 @@ msgid "_add_your_nextcloud_"
 msgstr "新增您的 Nextcloud 帳號"
 
 msgid "_login_url_"
-msgstr "Server address https:// …"
+msgstr "伺服器位址 https:// …"
 
 msgid "_login_bottom_label_"
 msgstr "目前還沒有伺服器？\\n請選擇一個提供者。"
 
 msgid "_error_multidomain_"
-msgstr "位址不被允許，只有下列的網域是有效的:"
+msgstr "不允許的位址，僅以下網域有效："
 
 msgid "_account_already_exists_"
 msgstr "帳號 %@ 已經存在"
@@ -1149,13 +1154,13 @@ msgid "_traditional_login_"
 msgstr "還原成舊的登入方式"
 
 msgid "_web_login_"
-msgstr "還原成 網頁登入 方式"
+msgstr "還原成網頁登入方式"
 
 msgid "_login_url_error_"
-msgstr "URL錯誤，請確認您伺服器的URL"
+msgstr "URL 錯誤，請確認您伺服器的 URL"
 
 msgid "_webflow_not_available_"
-msgstr "網頁登入不克使用，使用舊的登入方式"
+msgstr "無法使用網頁登入，使用舊的登入方式"
 
 msgid "_favorites_"
 msgstr "我的最愛"
@@ -1167,40 +1172,46 @@ msgid "_unfavorite_"
 msgstr "取消我的最愛"
 
 msgid "_no_files_uploaded_"
-msgstr "沒有檔案上傳"
+msgstr "沒有上傳檔案"
 
 msgid "_tutorial_favorite_view_"
 msgstr "您標記為我的最愛的檔案及資料夾將會在這顯示。"
 
 msgid "_tutorial_offline_view_"
-msgstr "這裡的檔案複製還是可以離線使用的\\n\\n它們會跟你的雲端同步。"
+msgstr ""
+"此處複製的檔案將可離線使用。\\n"
+"\\n"
+"它們會跟你的雲端同步。"
 
 msgid "_tutorial_groupfolders_view_"
-msgstr "No Group folders yet"
+msgstr "尚無群組資料夾"
 
 msgid "_tutorial_local_view_"
-msgstr "您會從您的雲端找到解開的檔案。\\n\\n連線到iTunes以分享這些檔案。"
+msgstr ""
+"您將從雲端找到解壓縮的檔案。\\n"
+"\\n"
+"連線到 iTunes 以分享這些檔案。"
 
 msgid "_favorite_no_files_"
-msgstr "目前還沒有我的最愛"
+msgstr "尚無我的最愛"
 
 msgid "_pull_down_"
-msgstr "下拉以更新"
+msgstr "下拉以重新整理"
 
 msgid "_no_photo_load_"
-msgstr "沒有照片或是影片"
+msgstr "沒有照片或影片"
 
 msgid "_tutorial_autoupload_view_"
-msgstr "您可以從「設定」開啟自動上傳。"
+msgstr "您可以從「設定」開啟自動上傳"
 
 msgid "_no_date_information_"
-msgstr "No date information"
+msgstr "無日期資訊"
 
 msgid "_no_camera_information_"
-msgstr "No camera information"
+msgstr "無相機資訊"
 
 msgid "_no_lens_information_"
-msgstr "No lens information"
+msgstr "無鏡頭資訊"
 
 msgid "_today_"
 msgstr "今天"
@@ -1209,151 +1220,149 @@ msgid "_yesterday_"
 msgstr "昨天"
 
 msgid "_time_"
-msgstr "時間: %@\\n\\n%@"
+msgstr ""
+"時間：%@\\n"
+"\\n"
+"%@"
 
 msgid "_location_not_enabled_"
-msgstr "位置服務沒有啟用"
+msgstr "未啟用定位服務"
 
 msgid "_location_not_enabled_msg_"
-msgstr "請到「設定」並且 開啟「定位服務」 "
+msgstr "請到「設定」開啟「定位服務」"
 
 msgid "_access_photo_not_enabled_"
-msgstr "存取照片沒有啟用"
+msgstr "照片存取權並未啟用"
 
 msgid "_access_photo_not_enabled_msg_"
-msgstr "請到「設定」並且 開啟「照片存取」"
+msgstr "請到「設定」開啟「照片存取」"
 
 msgid "_access_photo_location_not_enabled_"
-msgstr "存取照片及位置沒有啟用"
+msgstr "照片及存取權與定位服務並未啟用"
 
 msgid "_access_photo_location_not_enabled_msg_"
-msgstr "請到「設定」並且 開啟「相片存取」以及「位置服務」。"
+msgstr "請到「設定」開啟「照片存取」與「定位服務」"
 
 msgid "_tutorial_photo_view_"
-msgstr "目前無照片或是影片上傳。"
+msgstr "尚未上傳照片或影片"
 
 msgid "_create_full_upload_"
-msgstr ""
-"Creating archive … May take a long time. During this process, keep the "
-"application active during the transfer as well."
+msgstr "正在建立封存檔……可能需要很長時間。請在傳輸過程中保持應用程式處於活躍狀態。"
 
 msgid "_error_createsubfolders_upload_"
-msgstr "建立子資料夾錯誤"
+msgstr "建立子資料夾時發生錯誤"
 
 msgid "_activate_autoupload_"
-msgstr "開啟自動上傳"
+msgstr "啟用自動上傳"
 
 msgid "_remove_photo_CameraRoll_"
 msgstr "從相機膠卷移除"
 
 msgid "_remove_photo_CameraRoll_desc_"
-msgstr ""
-"\\\"Remove from camera roll\\\" after uploads, a confirmation message will "
-"be displayed to delete the uploaded photos or videos from the camera roll. "
-"The deleted photos or videos will still be available in the iOS Photos Trash"
-" for 30 days."
+msgstr "上傳後「從相機膠卷移除」，將會顯示確認訊息以從相機膠卷中刪除上傳的照片或影片"
+"。已刪除的照片或影片仍會在 iOS 照片回收桶中保留30天。"
 
 msgid "_never_"
 msgstr "從未"
 
 msgid "_less_a_minute_"
-msgstr "小於1分鐘以前"
+msgstr "少於1分鐘前"
 
 msgid "_a_minute_ago_"
-msgstr "1分鐘之前"
+msgstr "1分鐘前"
 
 msgid "_minutes_ago_"
-msgstr "%d 分鐘以前"
+msgstr "%d分鐘前"
 
 msgid "_an_hour_ago_"
-msgstr "一個小時前"
+msgstr "1小時前"
 
 msgid "_hours_ago_"
-msgstr "%d 小時以前"
+msgstr "%d小時前"
 
 msgid "_a_day_ago_"
-msgstr "一天前"
+msgstr "1天前"
 
 msgid "_days_ago_"
-msgstr "%d 天以前"
+msgstr "%d天前"
 
 msgid "_over_30_days_"
-msgstr "超過30天以上"
+msgstr "超過30天"
 
 msgid "_connection_internet_offline_"
-msgstr "The Internet connection appears to be offline or only allowed Wi-Fi"
+msgstr "網際網路連線似乎已離線，或是需要 Wi-Fi"
 
 msgid "_insert_password_"
 msgstr "輸入密碼"
 
 msgid "_update_in_progress_"
-msgstr "Version upgrade, please wait …"
+msgstr "版本升級，請稍候……"
 
 msgid "_forbidden_characters_"
-msgstr "Forbidden characters: %@"
+msgstr "禁止使用的字元：%@"
 
 msgid "_cannot_send_mail_error_"
-msgstr "無帳號設立，或者輸入錯誤的電子郵件位址。"
+msgstr "未設定帳號，或輸入了錯誤的電子郵件地址"
 
 msgid "_open_url_error_"
-msgstr "Cannot open the URL for this action"
+msgstr "無法開啟此動作的 URL"
 
 msgid "_photo_camera_"
 msgstr "照片"
 
 msgid "_media_"
-msgstr "多媒體"
+msgstr "媒體"
 
 msgid "_unzip_in_progress_"
-msgstr "Extraction in progress on local storage …"
+msgstr "正在本機儲存空間解壓縮……"
 
 msgid "_file_unpacked_"
-msgstr "檔案在本地端解開"
+msgstr "檔案在本機儲存空間解開"
 
 msgid "_file_saved_local_"
-msgstr "檔案存在本地端"
+msgstr "檔案儲存在本機儲存空間。"
 
 msgid "_file_not_present_"
-msgstr "錯誤: 檔案不存在，請重新載入。"
+msgstr "錯誤：檔案不存在，請重新載入。"
 
 msgid "_order_by_"
-msgstr "排序"
+msgstr "排序方式"
 
 msgid "_order_by_name_a_z_"
-msgstr "依照名稱排序(由 A 到 Z)"
+msgstr "按照名稱排序（從 A 到 Z）"
 
 msgid "_sorted_by_name_a_z_"
-msgstr "依照名稱排序(由 A 到 Z)"
+msgstr "已按照名稱排序（從 A 到 Z）"
 
 msgid "_order_by_name_z_a_"
-msgstr "依照名稱排序(由 Z 到 A)"
+msgstr "按照名稱排序（從 Z 到 A）"
 
 msgid "_sorted_by_name_z_a_"
-msgstr "依照名稱排序(由 Z 到 A)"
+msgstr "已按照名稱排序（從 Z 到 A）"
 
 msgid "_order_by_date_more_recent_"
-msgstr "依照最新排序"
+msgstr "按照最新排序"
 
 msgid "_sorted_by_date_more_recent_"
-msgstr "依照最新排序"
+msgstr "已按照最新排序"
 
 msgid "_order_by_date_less_recent_"
-msgstr "依照最舊排序"
+msgstr "按照最舊排序"
 
 msgid "_sorted_by_date_less_recent_"
-msgstr "依照最舊排序"
+msgstr "已按照最舊排序"
 
 msgid "_order_by_size_smallest_"
-msgstr "依照最小排序"
+msgstr "按照最小排序"
 
 msgid "_sorted_by_size_smallest_"
-msgstr "依照最小排序"
+msgstr "已按照最小排序"
 
 msgid "_order_by_size_largest_"
-msgstr "依照最大排序"
+msgstr "按照最大排序"
 
 msgid "_sorted_by_size_largest_"
-msgstr "依照最大排序"
+msgstr "按照最大排序"
 
 msgid "_delete_selected_files_"
 msgstr "刪除檔案"
@@ -1362,19 +1371,19 @@ msgid "_move_selected_files_"
 msgstr "移動檔案"
 
 msgid "_move_or_copy_selected_files_"
-msgstr "移動或是複製檔案"
+msgstr "移動或複製檔案"
 
 msgid "_download_selected_files_"
 msgstr "下載檔案"
 
 msgid "_download_selected_files_folders_"
-msgstr "下載檔案及資料夾"
+msgstr "下載檔案與資料夾"
 
 msgid "_error_operation_canc_"
-msgstr "錯誤: 操作取消。"
+msgstr "錯誤：操作已取消。"
 
 msgid "_only_lock_passcode_"
-msgstr "只有在密碼鎖啟動的狀態。在「設定」中啟動它。"
+msgstr "僅在啟動鎖定密碼時可用。在「設定」中啟動它。"
 
 msgid "_go_to_app_settings_"
 msgstr "至應用程式設定"
@@ -1389,10 +1398,10 @@ msgid "_remove_offline_"
 msgstr "從離線瀏覽移除"
 
 msgid "_add_favorites_"
-msgstr "加到我的最愛"
+msgstr "新增至我的最愛"
 
 msgid "_add_offline_"
-msgstr "加到離線瀏覽"
+msgstr "新增至離線瀏覽"
 
 msgid "_remove_passcode_"
 msgstr "移除密碼保護"
@@ -1407,19 +1416,19 @@ msgid "_reload_"
 msgstr "重新載入"
 
 msgid "_open_in_"
-msgstr "Open in …"
+msgstr "開啟於……"
 
 msgid "_open_"
-msgstr "Open …"
+msgstr "開啟……"
 
 msgid "_remove_local_file_"
 msgstr "從快取移除"
 
 msgid "_add_local_"
-msgstr "加到本地的儲存空間"
+msgstr "新增至本機儲存空間"
 
 msgid "_comm_erro_pull_down_"
-msgstr "注意: 與伺服器的通訊出錯。下拉刷新重整。"
+msgstr "注意：與伺服器的通訊發生錯誤。下拉以重新整理。"
 
 msgid "_file_not_downloaded_"
 msgstr "檔案未下載"
@@ -1437,16 +1446,16 @@ msgid "_file_"
 msgstr "檔案"
 
 msgid "_folder_blocked_"
-msgstr "資料夾封鎖"
+msgstr "資料夾已封鎖"
 
 msgid "_downloading_progress_"
-msgstr "Initiating download of files …"
+msgstr "正在開始下載檔案……"
 
 msgid "_no_file_pull_down_"
-msgstr "上傳檔案或是下拉刷新重整"
+msgstr "上傳檔案或下拉重新整理"
 
 msgid "_browse_images_"
-msgstr "瀏覽照片"
+msgstr "瀏覽影像"
 
 msgid "_synchronized_folder_"
 msgstr "保持資料夾同步"
@@ -1455,13 +1464,13 @@ msgid "_remove_synchronized_folder_"
 msgstr "關閉同步"
 
 msgid "_synchronized_confirm_"
-msgstr "開啟同步後，所有在資料夾內的檔案將會被同步到伺服器，要繼續嗎？"
+msgstr "啟用同步後，所有在資料夾內的檔案將會被同步到伺服器，要繼續嗎？"
 
 msgid "_offline_folder_confirm_"
-msgstr "開啟離線瀏覽資料夾之後，所有在此資料夾的檔案將會跟伺服器同步，要繼續嗎？"
+msgstr "啟用離線瀏覽資料夾之後，所有在該資料夾的檔案將會與伺服器同步，要繼續嗎？"
 
 msgid "_file_not_found_reload_"
-msgstr "檔案沒找到，下拉重整。"
+msgstr "找不到檔案，下拉以重新整理"
 
 msgid "_title_section_download_"
 msgstr "下載"
@@ -1470,79 +1479,79 @@ msgid "_title_section_upload_"
 msgstr "上傳"
 
 msgid "_group_alphabetic_yes_"
-msgstr "✓字母順序做群組"
+msgstr "✓ 按字母順序分組"
 
 msgid "_group_alphabetic_no_"
-msgstr "字母順序做群組"
+msgstr "按字母順序分組"
 
 msgid "_group_typefile_yes_"
-msgstr "✓ 檔案類型為群組"
+msgstr "✓ 按檔案類型分組"
 
 msgid "_group_typefile_no_"
-msgstr "檔案類型為群組"
+msgstr "按檔案類型分組"
 
 msgid "_group_date_yes_"
-msgstr "✓ 日期為群組"
+msgstr "✓ 按日期分組"
 
 msgid "_group_date_no_"
-msgstr "日期為群組"
+msgstr "按日期分組"
 
 msgid "_element_"
-msgstr "個"
+msgstr "元素"
 
 msgid "_elements_"
-msgstr "個"
+msgstr "元素"
 
 msgid "_tite_footer_upload_wwan_"
-msgstr "需要Wi-Fi網路上傳%lu %@"
+msgstr "  需要 Wi-Fi 網路，%lu %@ 待上傳"
 
 msgid "_tite_footer_upload_"
-msgstr "%lu %@ 要上傳"
+msgstr "%lu %@ 待上傳"
 
 msgid "_tite_footer_download_wwan_"
-msgstr "需要Wi-Fi網路下載 %lu%@"
+msgstr "  需要 Wi-Fi 網路，%lu %@ 待下載"
 
 msgid "_tite_footer_download_"
-msgstr "%lu %@ 下載"
+msgstr "%lu %@ 待下載"
 
 msgid "_limited_dimension_"
-msgstr "達到最大的大小"
+msgstr "已達最大的大小"
 
 msgid "_save_selected_files_"
-msgstr "儲存到照片畫廊"
+msgstr "儲存至圖庫"
 
 msgid "_file_not_saved_cameraroll_"
-msgstr "錯誤: 檔案沒有儲存到相簿"
+msgstr "錯誤：檔案並未儲存至相簿"
 
 msgid "_file_saved_cameraroll_"
-msgstr "檔案儲存到相簿"
+msgstr "檔案已儲存在相簿"
 
 msgid "_directory_on_top_yes_"
-msgstr "✓資料夾置頂"
+msgstr "✓ 資料夾置頂"
 
 msgid "_directory_on_top_no_"
-msgstr "資料夾在最上面"
+msgstr "資料夾置頂"
 
 msgid "_folder_automatic_upload_"
-msgstr "自動上傳資料夾"
+msgstr "「自動上傳」資料夾"
 
 msgid "_search_no_record_found_"
 msgstr "沒有結果"
 
 msgid "_search_in_progress_"
-msgstr "Search in progress …"
+msgstr "正在搜尋……"
 
 msgid "_search_instruction_"
-msgstr "搜尋檔案 (至少2個字元)"
+msgstr "搜尋檔案（至少 2 個字元）"
 
 msgid "_files_no_files_"
-msgstr "沒有檔案在這裡。"
+msgstr "此處無檔案"
 
 msgid "_files_no_folders_"
-msgstr "這裡沒有資料夾"
+msgstr "此處無資料夾"
 
 msgid "_request_in_progress_"
-msgstr "Request to server in progress …"
+msgstr "正在向伺服器傳送請求……"
 
 msgid "audio"
 msgstr "音訊"
@@ -1554,13 +1563,13 @@ msgid "directory"
 msgstr "資料夾"
 
 msgid "document"
-msgstr "文件檔"
+msgstr "文件"
 
 msgid "image"
-msgstr "圖片"
+msgstr "影像"
 
 msgid "template"
-msgstr "樣板"
+msgstr "範本"
 
 msgid "unknow"
 msgstr "不明"
@@ -1569,7 +1578,7 @@ msgid "video"
 msgstr "影片"
 
 msgid "_file_del_only_local_"
-msgstr "檔案沒有在伺服器出現"
+msgstr "檔案不在伺服器上"
 
 msgid "_copy_file_"
 msgstr "複製"
@@ -1578,79 +1587,79 @@ msgid "_paste_file_"
 msgstr "貼上"
 
 msgid "_open_quicklook_"
-msgstr "以快速預覽開啟"
+msgstr "以 Quick Look 開啟"
 
 msgid "_search_this_folder_"
-msgstr "在這資料夾搜尋"
+msgstr "在此資料夾搜尋"
 
 msgid "_search_all_folders_"
-msgstr "在這所有資料夾搜尋"
+msgstr "在所有資料夾搜尋"
 
 msgid "_search_sub_folder_"
-msgstr "搜尋這裡及子資料夾"
+msgstr "搜尋此處與子資料夾"
 
 msgid "_theming_is_light_"
-msgstr "伺服器的佈景主題太亮，太繽紛，無法適用"
+msgstr "伺服器佈景主題太鮮艷，不適用"
 
 msgid "_cancel_all_task_"
-msgstr "取消所有的傳送作業"
+msgstr "取消所有的傳輸作業"
 
 msgid "_status_wait_download_"
-msgstr "等待下載中"
+msgstr "正在等待下載"
 
 msgid "_status_in_download_"
 msgstr "下載中"
 
 msgid "_status_downloading_"
-msgstr "下載中…"
+msgstr "正在下載"
 
 msgid "_status_wait_upload_"
-msgstr "等待上傳中"
+msgstr "正在等待上傳"
 
 msgid "_status_in_upload_"
 msgstr "上傳中"
 
 msgid "_status_uploading_"
-msgstr "上傳中..."
+msgstr "正在上傳"
 
 msgid "_status_upload_error_"
-msgstr "Error, waiting for upload"
+msgstr "錯誤，正在等待上傳"
 
 msgid "_select_media_folder_"
 msgstr "選取「媒體」資料夾"
 
 msgid "_media_viewimage_show_"
-msgstr "Show only images"
+msgstr "僅顯示影像"
 
 msgid "_media_viewvideo_show_"
-msgstr "Show only video"
+msgstr "僅顯示影片"
 
 msgid "_media_show_all_"
-msgstr "Show both"
+msgstr "兩者皆顯示"
 
 msgid "_media_by_created_date_"
-msgstr "以建立日期排序"
+msgstr "按照建立日期排序"
 
 msgid "_media_by_upload_date_"
-msgstr "以上傳日期排序"
+msgstr "按照上傳日期排序"
 
 msgid "_media_by_modified_date_"
-msgstr "以更改日期排序"
+msgstr "按照修改日期排序"
 
 msgid "_insert_password_pfd_"
-msgstr "加密的PDF檔。請輸入密碼。"
+msgstr "受保護的 PDF 檔。請輸入密碼"
 
 msgid "_password_pdf_error_"
 msgstr "錯誤的密碼"
 
 msgid "_error_download_photobrowser_"
-msgstr "錯誤: 沒辦法下載照片"
+msgstr "錯誤：無法下載照片"
 
 msgid "_good_morning_"
 msgstr "早安"
 
 msgid "_good_day_"
-msgstr "Good day"
+msgstr "日安"
 
 msgid "_good_afternoon_"
 msgstr "午安"
@@ -1665,7 +1674,7 @@ msgid "_share_link_"
 msgstr "分享連結"
 
 msgid "_share_link_button_"
-msgstr "Send link to …"
+msgstr "分享連結至……"
 
 msgid "_share_link_name_"
 msgstr "連結名稱"
@@ -1674,10 +1683,10 @@ msgid "_password_"
 msgstr "密碼"
 
 msgid "_share_password_"
-msgstr "密碼保護連結"
+msgstr "受密碼保護的連結"
 
 msgid "_share_expirationdate_"
-msgstr "設定失效日期連結"
+msgstr "為連結設定到期日"
 
 msgid "_date_"
 msgstr "日期"
@@ -1686,19 +1695,20 @@ msgid "_share_title_"
 msgstr "分享"
 
 msgid "_add_sharee_"
-msgstr "增加使用者或者群組"
+msgstr "新增使用者或群組"
 
 msgid "_add_sharee_footer_"
-msgstr "您可以分享這個資源以增加使用者或群組。為了移除一個分享，移除所有使用者及群組。"
+msgstr "您可以透過新增使用者或群組來分享此資源。若要移除分享，請移除所有使用者與群組"
 
 msgid "_find_sharee_title_"
 msgstr "搜尋"
 
 msgid "_find_sharee_"
-msgstr "Search for user or group …"
+msgstr "搜尋使用者或群組……"
 
 msgid "_find_sharee_footer_"
-msgstr "輸入部份的使用者或群組名稱用來搜尋（至少2個字元）然後按「返回」，選擇允許存取分享的使用者然後按「完成」來確認。"
+msgstr "輸入要搜尋的使用者或群組名稱的一部分（至少 2 "
+"個字元），然後按「返回」，選取應允許存取分享的使用者，然後按「完成」進行確認"
 
 msgid "_user_is_group_"
 msgstr "（群組）"
@@ -1707,13 +1717,13 @@ msgid "_direct_sharee_title_"
 msgstr "分享"
 
 msgid "_direct_sharee_footer_"
-msgstr "若已知名字就輸入它然後選擇分享類型再按「完成」來確認"
+msgstr "若您已知道名稱，請輸入該名稱，然後選取分享類型並按「完成」進行確認"
 
 msgid "_direct_sharee_"
-msgstr "Enter the username …"
+msgstr "輸入使用者名稱……"
 
 msgid "_user_sharee_footer_"
-msgstr "點擊 可 變更權限"
+msgstr "輕點以變更權限"
 
 msgid "_share_type_title_"
 msgstr "分享的類型"
@@ -1731,16 +1741,16 @@ msgid "_enforce_password_protection_"
 msgstr "強制密碼保護"
 
 msgid "_password_obligatory_"
-msgstr "強制密碼保護"
+msgstr "強制啟用密碼保護，必須設定密碼"
 
 msgid "_shared_with_you_by_"
-msgstr "分享給您藉由"
+msgstr "與您分享的"
 
 msgid "_shareLinksearch_placeholder_"
-msgstr "Type a name and press Search"
+msgstr "輸入名稱並按搜尋"
 
 msgid "_shareLinksearch_mail_placeholder_"
-msgstr "Type a name or an email and press Search"
+msgstr "輸入姓名或電子郵件，然後按搜尋"
 
 msgid "_new_comment_"
 msgstr "新增留言……"
@@ -1755,19 +1765,19 @@ msgid "_share_allow_editing_"
 msgstr "允許編輯"
 
 msgid "_share_read_only_"
-msgstr "只能觀賞"
+msgstr "僅供檢視"
 
 msgid "_share_editing_"
 msgstr "編輯"
 
 msgid "_share_allow_upload_"
-msgstr "允許上傳及編輯"
+msgstr "允許上傳與編輯"
 
 msgid "_share_file_drop_"
-msgstr "拖曳檔案(僅供上傳)"
+msgstr "檔案投遞箱（僅供上傳）"
 
 msgid "_share_secure_file_drop_"
-msgstr "Secure file drop (upload only)"
+msgstr "安全檔案投遞箱（僅供上傳）"
 
 msgid "_share_hide_download_"
 msgstr "隱藏下載"
@@ -1779,16 +1789,16 @@ msgid "_share_expiration_date_"
 msgstr "設定到期日"
 
 msgid "_share_note_recipient_"
-msgstr "給接收者的訊息"
+msgstr "給收件人的備註"
 
 msgid "_share_delete_sharelink_"
 msgstr "刪除連結"
 
 msgid "_share_add_sharelink_"
-msgstr "加入另一個連結"
+msgstr "新增其他連結"
 
 msgid "_share_can_reshare_"
-msgstr "允許再分享"
+msgstr "允許轉分享"
 
 msgid "_share_can_create_"
 msgstr "允許建立"
@@ -1800,10 +1810,10 @@ msgid "_share_can_delete_"
 msgstr "允許刪除"
 
 msgid "_share_can_download_"
-msgstr "Allow download"
+msgstr "允許下載"
 
 msgid "_share_unshare_"
-msgstr "撤回分享"
+msgstr "取消分享"
 
 msgid "_share_internal_link_"
 msgstr "內部連結"
@@ -1812,16 +1822,16 @@ msgid "_share_internal_link_des_"
 msgstr "僅對可存取此資料夾的使用者有效"
 
 msgid "_share_reshare_disabled_"
-msgstr "You are not allowed to reshare this file/folder"
+msgstr "您無權轉分享此檔案/資料夾"
 
 msgid "_share_reshare_restricted_"
-msgstr "Note: You only have limited permission to reshare this file/folder"
+msgstr "注意：您只有有限的權限轉分享此檔案/資料夾"
 
 msgid "_no_transfer_"
-msgstr "目前尚無任何傳輸"
+msgstr "尚無傳輸"
 
 msgid "_no_transfer_sub_"
-msgstr "從這裝置上傳及下載將會顯示在這。"
+msgstr "此處將顯示從此裝置上傳與下載的內容"
 
 msgid "_no_activity_"
 msgstr "目前無活動"

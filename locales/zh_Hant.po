@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2024-01-06 13:08+0000\n"
+"PO-Revision-Date: 2024-01-11 13:08+0000\n"
 "Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "nextcloud/ios/zh_Hant/>\n"
@@ -220,7 +220,7 @@ msgid "_audio_"
 msgstr "音訊"
 
 msgid "_unknown_"
-msgstr "不明"
+msgstr "未知"
 
 msgid "_next_"
 msgstr "下一個"
@@ -639,7 +639,7 @@ msgid "_set_status_message_"
 msgstr "設定狀態訊息"
 
 msgid "_clear_status_message_after_"
-msgstr "清除下列時間後的狀態訊息"
+msgstr "在這個時間後清除狀態訊息"
 
 msgid "_select_option_"
 msgstr "選取選項"
@@ -720,7 +720,7 @@ msgid "_quota_space_unlimited_"
 msgstr "無限制"
 
 msgid "_quota_space_unknown_"
-msgstr "不明"
+msgstr "未知"
 
 msgid "_quota_using_"
 msgstr "您已使用 %@，總共有 %@"
@@ -1572,7 +1572,7 @@ msgid "template"
 msgstr "範本"
 
 msgid "unknow"
-msgstr "不明"
+msgstr "未知"
 
 msgid "video"
 msgstr "影片"
@@ -1783,7 +1783,7 @@ msgid "_share_hide_download_"
 msgstr "隱藏下載"
 
 msgid "_share_password_protect_"
-msgstr "密碼防護"
+msgstr "密碼保護"
 
 msgid "_share_expiration_date_"
 msgstr "設定到期日"
@@ -2105,7 +2105,7 @@ msgid "_intro_2_title_"
 msgstr "安全協作與檔案交換"
 
 msgid "_intro_3_title_"
-msgstr "易於使用的網路郵件、行事曆與通訊錄"
+msgstr "易於使用的網路郵件、日曆與通訊錄"
 
 msgid "_intro_4_title_"
 msgstr "螢幕分享、線上會議與網路研討會"

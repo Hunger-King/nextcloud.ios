@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2024-02-29 06:52+0000\n"
+"PO-Revision-Date: 2024-03-03 12:52+0000\n"
 "Last-Translator: Wilt <interpreter.wilt@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "nextcloud/ios/zh_Hant/>\n"
@@ -55,7 +55,7 @@ msgid "_delete_"
 msgstr "刪除"
 
 msgid "_delete_file_n_"
-msgstr "刪除 %i 個中 %i 個的檔案"
+msgstr "刪除 %i 個檔案中的 %i 個"
 
 msgid "_rename_"
 msgstr "重新命名"
@@ -184,7 +184,7 @@ msgid "_create_folder_e2ee_"
 msgstr "建立加密資料夾"
 
 msgid "_create_folder_on_"
-msgstr "建立資料夾在"
+msgstr "建立資料夾於"
 
 msgid "_close_"
 msgstr "關閉"
@@ -255,8 +255,8 @@ msgstr ""
 "要升級至 Nextcloud，請參閱 https://nextcloud.com/migration"
 
 msgid "_warning_unsupported_"
-msgstr "您正使用不受支援版本的 Nextcloud。為了您資料的安全，"
-"我們強烈建議更新至最新穩定版的 Nextcloud"
+msgstr "您正使用不受支援的 Nextcloud 版本。為了您資料的安全，"
+"我們強烈建議更新至最新的 Nextcloud 穩定版"
 
 msgid "_restore_"
 msgstr "復原"
@@ -373,7 +373,9 @@ msgid "_file_conflicts_num_"
 msgstr "檔案衝突"
 
 msgid "_file_conflict_desc_"
-msgstr "請問您想要保留哪個檔案？\\n如果您想要選擇兩個版本，已經複製的檔案名稱將會加上一個數字。"
+msgstr ""
+"請問您想要保留哪個檔案？\\n"
+"如果您想要選擇兩個版本，已經複製的檔案名稱將會加上一個數字。"
 
 msgid "_file_conflict_new_"
 msgstr "新增檔案"
@@ -639,7 +641,7 @@ msgid "_set_status_message_"
 msgstr "設定狀態訊息"
 
 msgid "_clear_status_message_after_"
-msgstr "在這個時間後清除狀態訊息"
+msgstr "清除狀態訊息之前要"
 
 msgid "_select_option_"
 msgstr "選取選項"
@@ -918,7 +920,7 @@ msgid "_user_job_"
 msgstr "工作"
 
 msgid "_user_businesssize_"
-msgstr "企業大小"
+msgstr "企業規模"
 
 msgid "_user_businesstype_"
 msgstr "企業類型"
@@ -999,7 +1001,7 @@ msgid "_autoupload_videos_"
 msgstr "自動上傳影片"
 
 msgid "_autoupload_description_"
-msgstr "新的照片 / 影片將自動上傳到您的 Nextcloud"
+msgstr "新的照片/影片將自動上傳到您的 Nextcloud"
 
 msgid "_autoupload_description_background_"
 msgstr "此選項需要使用 GPS 在位置發生顯著變化時觸發相機膠卷中新照片/影片的偵測"
@@ -1060,7 +1062,7 @@ msgid "_help_intro_"
 msgstr "Nextcloud 的介紹"
 
 msgid "_help_activity_verbose_"
-msgstr "詳細的活動動態 feed"
+msgstr "詳細的活動動態饋送"
 
 msgid "_help_activity_mail_"
 msgstr "用電子郵件傳送活動"
@@ -1072,10 +1074,10 @@ msgid "_show_hidden_files_"
 msgstr "顯示隱藏的檔案"
 
 msgid "_format_compatibility_"
-msgstr "大部分相容"
+msgstr "最相容"
 
 msgid "_format_compatibility_footer_"
-msgstr "可能的話，「大部分相容」會將照片存成 JPEG。"
+msgstr "可能的話，「最相容」會將照片存成 JPEG。"
 
 msgid "_terms_"
 msgstr "服務條款"
@@ -1133,7 +1135,7 @@ msgid "_connection_error_"
 msgstr "連線錯誤"
 
 msgid "_serverstatus_error_"
-msgstr "連線到伺服器失敗，驗證您的伺服器的位置或是網路狀態"
+msgstr "連線到伺服器失敗，驗證您的伺服器位置或是網路狀態"
 
 msgid "_add_your_nextcloud_"
 msgstr "新增您的 Nextcloud 帳號"
@@ -1142,7 +1144,9 @@ msgid "_login_url_"
 msgstr "伺服器位址 https:// …"
 
 msgid "_login_bottom_label_"
-msgstr "目前還沒有伺服器？\\n請選擇一個提供者。"
+msgstr ""
+"目前還沒有伺服器？\\n"
+"請選擇一個提供者。"
 
 msgid "_error_multidomain_"
 msgstr "不允許的位址，僅以下網域有效："
@@ -1181,7 +1185,7 @@ msgid "_tutorial_offline_view_"
 msgstr ""
 "此處複製的檔案將可離線使用。\\n"
 "\\n"
-"它們會跟你的雲端同步。"
+"它們會跟您的雲端同步。"
 
 msgid "_tutorial_groupfolders_view_"
 msgstr "尚無群組資料夾"
@@ -1744,7 +1748,7 @@ msgid "_password_obligatory_"
 msgstr "強制啟用密碼保護，必須設定密碼"
 
 msgid "_shared_with_you_by_"
-msgstr "與您分享的"
+msgstr "與您的分享來自"
 
 msgid "_shareLinksearch_placeholder_"
 msgstr "輸入名稱並按搜尋"
@@ -1946,7 +1950,7 @@ msgstr "伺服器上的端到端加密應用程式已停用"
 
 msgid "_e2e_settings_view_passphrase_"
 msgstr "透過組合 12 個單字來產生安全的密碼，讓您可以安全的瀏覽與使用加密檔案。請確保"
-"這組密碼只有你知道，並寫在紙上妥善保管。"
+"這組密碼只有您知道，並寫在紙上妥善保管。"
 
 msgid "_e2e_settings_read_passphrase_"
 msgstr "讀取密碼"
@@ -1964,7 +1968,7 @@ msgid "_e2e_passphrase_request_message_"
 msgstr "輸入 12 個單字"
 
 msgid "_e2e_settings_remove_"
-msgstr "本機移除加密"
+msgstr "移除本機加密"
 
 msgid "_e2e_settings_remove_message_"
 msgstr "確認移除加密與密碼。"
@@ -2069,7 +2073,7 @@ msgid "_trash_no_trash_"
 msgstr "未刪除檔案"
 
 msgid "_trash_no_trash_description_"
-msgstr "你可以從這裡還原已刪除的檔案"
+msgstr "您可以從這裡還原已刪除的檔案"
 
 msgid "_trash_restore_selected_"
 msgstr "還原已選取的檔案"
@@ -2201,7 +2205,7 @@ msgid "_too_many_files_"
 msgstr "此操作包含太多檔案"
 
 msgid "_too_many_request_"
-msgstr "傳送太多請求導致碰到速率限制"
+msgstr "傳送太多請求而觸及速率限制"
 
 msgid "_user_over_quota_"
 msgstr "已達儲存配額"
@@ -2584,13 +2588,13 @@ msgid "_disable_livephoto_"
 msgstr "停用原況照片"
 
 msgid "_undo_modify_"
-msgstr "撤銷修改"
+msgstr "取消修改"
 
 msgid "_unauthorizedFilesPasscode_"
 msgstr "啟動通行碼後無法使用檔案"
 
 msgid "_disableFilesApp_"
-msgstr "因為其已被停用，無法使用檔案"
+msgstr "無法使用檔案因為已被停用，"
 
 msgid "_reset_application_done_"
 msgstr "重設應用程式碼，完成。"

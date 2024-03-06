@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2024-03-03 12:52+0000\n"
+"PO-Revision-Date: 2024-03-07 03:03+0000\n"
 "Last-Translator: Wilt <interpreter.wilt@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "nextcloud/ios/zh_Hant/>\n"
@@ -37,7 +37,7 @@ msgid "_loading_"
 msgstr "正在載入"
 
 msgid "_loading_with_points_"
-msgstr "正在載入……"
+msgstr "正在載入…"
 
 msgid "_loading_num_"
 msgstr "正在載入檔案 %i"
@@ -172,7 +172,7 @@ msgid "_overwrite_"
 msgstr "覆寫"
 
 msgid "_transfers_in_queue_"
-msgstr "正在進行轉移，請稍候……"
+msgstr "正在進行轉移，請稍候…"
 
 msgid "_too_errors_upload_"
 msgstr "太多錯誤，請檢視問題"
@@ -325,7 +325,7 @@ msgid "_wipe_account_"
 msgstr "已從伺服器抹除帳號"
 
 msgid "_appconfig_view_title_"
-msgstr "正在進行帳號設定……"
+msgstr "正在進行帳號設定…"
 
 msgid "_no_permission_add_file_"
 msgstr "您無權新增檔案"
@@ -396,7 +396,7 @@ msgid "_now_"
 msgstr "現在"
 
 msgid "_wait_"
-msgstr "請稍候……"
+msgstr "請稍候…"
 
 msgid "_attention_"
 msgstr "留意"
@@ -510,7 +510,7 @@ msgid "_alias_"
 msgstr "別名"
 
 msgid "_alias_footer_"
-msgstr "為您的帳號取一個描述性的名稱，例如家庭、辦公室、學校……"
+msgstr "為您的帳號取一個描述性的名稱，例如家庭、辦公室、學校…"
 
 msgid "_chunk_size_mb_"
 msgstr "區塊大小，以 MB 為單位"
@@ -689,7 +689,7 @@ msgid "_file_too_big_max_100_"
 msgstr "檔案太大（最大 100 kb）"
 
 msgid "_...loading..._"
-msgstr "正在載入……"
+msgstr "正在載入…"
 
 msgid "_download_plist_"
 msgstr " "
@@ -737,7 +737,7 @@ msgid "_passcode_"
 msgstr "密碼"
 
 msgid "_enter_password_"
-msgstr "輸入密碼……"
+msgstr "輸入密碼…"
 
 msgid "_lock_"
 msgstr "鎖定"
@@ -863,7 +863,7 @@ msgid "_yes_delete_"
 msgstr "是，刪除"
 
 msgid "_remove_cache_"
-msgstr "正在刪除快取，請稍候……"
+msgstr "正在刪除快取，請稍候…"
 
 msgid "_optimizations_"
 msgstr "最佳化"
@@ -1251,7 +1251,7 @@ msgid "_tutorial_photo_view_"
 msgstr "尚未上傳照片或影片"
 
 msgid "_create_full_upload_"
-msgstr "正在建立封存檔……可能需要很長時間。請在傳輸過程中保持應用程式處於活躍狀態。"
+msgstr "正在建立封存檔…可能需要很長時間。請在傳輸過程中保持應用程式處於活躍狀態。"
 
 msgid "_error_createsubfolders_upload_"
 msgstr "建立子資料夾時發生錯誤"
@@ -1300,7 +1300,7 @@ msgid "_insert_password_"
 msgstr "輸入密碼"
 
 msgid "_update_in_progress_"
-msgstr "版本升級，請稍候……"
+msgstr "版本升級，請稍候…"
 
 msgid "_forbidden_characters_"
 msgstr "禁止使用的字元：%@"
@@ -1318,7 +1318,7 @@ msgid "_media_"
 msgstr "媒體"
 
 msgid "_unzip_in_progress_"
-msgstr "正在本機儲存空間解壓縮……"
+msgstr "正在本機儲存空間解壓縮…"
 
 msgid "_file_unpacked_"
 msgstr "檔案在本機儲存空間解開"
@@ -1420,10 +1420,10 @@ msgid "_reload_"
 msgstr "重新載入"
 
 msgid "_open_in_"
-msgstr "開啟於……"
+msgstr "開啟於…"
 
 msgid "_open_"
-msgstr "開啟……"
+msgstr "開啟…"
 
 msgid "_remove_local_file_"
 msgstr "從快取移除"
@@ -1453,7 +1453,7 @@ msgid "_folder_blocked_"
 msgstr "資料夾已封鎖"
 
 msgid "_downloading_progress_"
-msgstr "正在開始下載檔案……"
+msgstr "正在開始下載檔案…"
 
 msgid "_no_file_pull_down_"
 msgstr "上傳檔案或下拉重新整理"
@@ -1543,7 +1543,7 @@ msgid "_search_no_record_found_"
 msgstr "沒有結果"
 
 msgid "_search_in_progress_"
-msgstr "正在搜尋……"
+msgstr "正在搜尋…"
 
 msgid "_search_instruction_"
 msgstr "搜尋檔案（至少 2 個字元）"
@@ -1555,7 +1555,7 @@ msgid "_files_no_folders_"
 msgstr "此處無資料夾"
 
 msgid "_request_in_progress_"
-msgstr "正在向伺服器傳送請求……"
+msgstr "正在向伺服器傳送請求…"
 
 msgid "audio"
 msgstr "音訊"
@@ -1678,7 +1678,7 @@ msgid "_share_link_"
 msgstr "分享連結"
 
 msgid "_share_link_button_"
-msgstr "分享連結至……"
+msgstr "分享連結至…"
 
 msgid "_share_link_name_"
 msgstr "連結名稱"
@@ -1708,7 +1708,7 @@ msgid "_find_sharee_title_"
 msgstr "搜尋"
 
 msgid "_find_sharee_"
-msgstr "搜尋使用者或群組……"
+msgstr "搜尋使用者或群組…"
 
 msgid "_find_sharee_footer_"
 msgstr "輸入要搜尋的使用者或群組名稱的一部分（至少 2 "
@@ -1724,7 +1724,7 @@ msgid "_direct_sharee_footer_"
 msgstr "若您已知道名稱，請輸入該名稱，然後選取分享類型並按「完成」進行確認"
 
 msgid "_direct_sharee_"
-msgstr "輸入使用者名稱……"
+msgstr "輸入使用者名稱…"
 
 msgid "_user_sharee_footer_"
 msgstr "輕點以變更權限"
@@ -1757,7 +1757,7 @@ msgid "_shareLinksearch_mail_placeholder_"
 msgstr "輸入姓名或電子郵件，然後按搜尋"
 
 msgid "_new_comment_"
-msgstr "新增留言……"
+msgstr "新增留言…"
 
 msgid "_edit_comment_"
 msgstr "編輯留言"
@@ -1901,7 +1901,7 @@ msgid "_filename_"
 msgstr "檔案名稱"
 
 msgid "_enter_filename_"
-msgstr "輸入檔案名稱……"
+msgstr "輸入檔案名稱…"
 
 msgid "_preview_filename_"
 msgstr "檔案名稱的範例預覽。您可以使用遮罩 %@ 來表示日期/時間"
@@ -2451,7 +2451,7 @@ msgid "_privacy_screen_"
 msgstr "應用程式不活躍時的啟動畫面"
 
 msgid "_saving_"
-msgstr "正在儲存……"
+msgstr "正在儲存…"
 
 msgid "_video_not_streamed_"
 msgstr "伺服器不允許視訊串流，您要下載嗎？"
@@ -2530,7 +2530,7 @@ msgid "_check_back_later_"
 msgstr "稍後再回來檢查"
 
 msgid "_exporting_video_"
-msgstr "正在匯出影片……輕點以取消。"
+msgstr "正在匯出影片…輕點以取消。"
 
 msgid "_apps_nextcloud_detect_"
 msgstr "已偵測到 %@ 個應用程式"
@@ -2539,7 +2539,7 @@ msgid "_add_existing_account_"
 msgstr "已偵測到其他 %@ 個應用程式，您想要新增既有帳號嗎？"
 
 msgid "_status_in_progress_"
-msgstr "正在進行狀態讀取……"
+msgstr "正在進行狀態讀取…"
 
 msgid "_status_e2ee_on_server_"
 msgstr "端到端加密已在伺服器上設定好了，但尚未在此裝置上啟用"
@@ -2675,7 +2675,7 @@ msgid "_video_processing_"
 msgstr "影片處理"
 
 msgid "_video_being_processed_"
-msgstr "正在處理影片……"
+msgstr "正在處理影片…"
 
 msgid "_downloading_"
 msgstr "正在下載"
@@ -2693,7 +2693,7 @@ msgid "_reuired_conversion_"
 msgstr "此影片需要很長時間才能轉換。"
 
 msgid "_stay_app_foreground_"
-msgstr "將應用程式維持在前景……"
+msgstr "將應用程式維持在前景…"
 
 msgid "_conversion_available_"
 msgstr "選單上一律可以進行轉換"
@@ -2732,7 +2732,7 @@ msgid "_maintenance_mode_"
 msgstr "伺服器目前正處於維護模式"
 
 msgid "_upload_foreground_msg_"
-msgstr "請勿關閉 %@ 以完成傳輸……"
+msgstr "請勿關閉 %@ 以完成傳輸…"
 
 msgid "_tip_pdf_thumbnails_"
 msgstr "從螢幕右邊緣向左滑動可顯示縮圖。"

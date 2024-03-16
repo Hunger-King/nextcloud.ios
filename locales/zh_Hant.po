@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2024-03-13 10:52+0000\n"
+"PO-Revision-Date: 2024-03-17 02:32+0000\n"
 "Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "nextcloud/ios/zh_Hant/>\n"
@@ -402,7 +402,7 @@ msgid "_attention_"
 msgstr "留意"
 
 msgid "_recent_"
-msgstr "近期"
+msgstr "最近"
 
 msgid "_view_in_folder_"
 msgstr "在資料夾中檢視"
@@ -959,7 +959,7 @@ msgid "_advanced_"
 msgstr "進階"
 
 msgid "_permissions_"
-msgstr "權限"
+msgstr "取用權"
 
 msgid "_disable_files_app_"
 msgstr "停用檔案應用程式的整合"
@@ -1167,19 +1167,19 @@ msgid "_webflow_not_available_"
 msgstr "無法使用網頁登入，使用舊的登入方式"
 
 msgid "_favorites_"
-msgstr "我的最愛"
+msgstr "喜愛"
 
 msgid "_favorite_"
-msgstr "我的最愛"
+msgstr "喜愛"
 
 msgid "_unfavorite_"
-msgstr "取消我的最愛"
+msgstr "取消喜愛"
 
 msgid "_no_files_uploaded_"
 msgstr "沒有上傳檔案"
 
 msgid "_tutorial_favorite_view_"
-msgstr "您標記為我的最愛的檔案與資料夾將會在此顯示"
+msgstr "您標記為喜愛的檔案與資料夾將會在此顯示"
 
 msgid "_tutorial_offline_view_"
 msgstr ""
@@ -1197,7 +1197,7 @@ msgstr ""
 "連線到 iTunes 以分享這些檔案。"
 
 msgid "_favorite_no_files_"
-msgstr "尚無我的最愛"
+msgstr "尚無喜愛"
 
 msgid "_pull_down_"
 msgstr "下拉以重新整理"
@@ -1264,7 +1264,7 @@ msgstr "從相機膠卷移除"
 
 msgid "_remove_photo_CameraRoll_desc_"
 msgstr "上傳後「從相機膠卷移除」，將會顯示確認訊息以從相機膠卷中刪除上傳的照片或影片"
-"。已刪除的照片或影片仍會在 iOS 照片回收桶中保留30天。"
+"。已刪除的照片或影片仍會在 iOS 照片垃圾桶中保留30天。"
 
 msgid "_never_"
 msgstr "從未"
@@ -1396,13 +1396,13 @@ msgid "_passcode_protection_"
 msgstr "密碼保護"
 
 msgid "_remove_favorites_"
-msgstr "從我的最愛移除"
+msgstr "從喜愛移除"
 
 msgid "_remove_offline_"
 msgstr "從離線瀏覽移除"
 
 msgid "_add_favorites_"
-msgstr "新增至我的最愛"
+msgstr "新增至喜愛"
 
 msgid "_add_offline_"
 msgstr "新增至離線瀏覽"
@@ -1727,7 +1727,7 @@ msgid "_direct_sharee_"
 msgstr "輸入使用者名稱…"
 
 msgid "_user_sharee_footer_"
-msgstr "輕點以變更權限"
+msgstr "輕點以變更取用權"
 
 msgid "_share_type_title_"
 msgstr "分享的類型"
@@ -1778,10 +1778,10 @@ msgid "_share_allow_upload_"
 msgstr "允許上傳與編輯"
 
 msgid "_share_file_drop_"
-msgstr "檔案投遞箱（僅供上傳）"
+msgstr "檔案投遞（僅供上傳）"
 
 msgid "_share_secure_file_drop_"
-msgstr "安全檔案投遞箱（僅供上傳）"
+msgstr "安全檔案投遞（僅供上傳）"
 
 msgid "_share_hide_download_"
 msgstr "隱藏下載"
@@ -1829,7 +1829,7 @@ msgid "_share_reshare_disabled_"
 msgstr "您無權轉分享此檔案/資料夾"
 
 msgid "_share_reshare_restricted_"
-msgstr "注意：您只有有限的權限轉分享此檔案/資料夾"
+msgstr "注意：您受限的取用權只可轉分享此檔案/資料夾"
 
 msgid "_no_transfer_"
 msgstr "尚無傳輸"
@@ -1853,7 +1853,7 @@ msgid "_activity_file_not_present_"
 msgstr "檔案不再顯示"
 
 msgid "_trash_file_not_found_"
-msgstr "檔案似乎不在回收桶中，到回收桶更新再重試"
+msgstr "檔案似乎不在垃圾桶中，到垃圾桶更新再重試"
 
 msgid "_list_shares_"
 msgstr "分享"
@@ -2061,13 +2061,13 @@ msgid "_trash_restore_all_"
 msgstr "還原所有檔案"
 
 msgid "_trash_delete_all_"
-msgstr "清空回收桶"
+msgstr "清空垃圾桶"
 
 msgid "_trash_delete_permanently_"
 msgstr "永久刪除"
 
 msgid "_trash_delete_all_description_"
-msgstr "您想要清空回收桶嗎？"
+msgstr "您想要清空垃圾桶嗎？"
 
 msgid "_trash_no_trash_"
 msgstr "未刪除檔案"
@@ -2280,13 +2280,13 @@ msgid "_err_e2ee_app_version_"
 msgstr "應用程式版本的端到端加密與伺服器不相容，請更新您的伺服器"
 
 msgid "_err_permission_microphone_"
-msgstr "請在「設定」中允許使用麥克風"
+msgstr "請在「設定」中允許取用麥克風"
 
 msgid "_err_permission_photolibrary_"
 msgstr "請在「設定」中允許存取照片"
 
 msgid "_err_permission_locationmanager_"
-msgstr "請在「設定」中永久允許定位"
+msgstr "請在「設定」中「永遠」允許「定位服務」"
 
 msgid "_qrcode_not_authorized_"
 msgstr "此應用程式無權使用後相機"
@@ -2515,13 +2515,13 @@ msgid "_keep_running_"
 msgstr "維持應用程式運作以提供更好的使用者體驗"
 
 msgid "_recent_activity_"
-msgstr "近期活動"
+msgstr "最近活動"
 
 msgid "_title_lockscreenwidget_"
 msgstr "狀態"
 
 msgid "_description_lockscreenwidget_"
-msgstr "追蹤可用空間與近期活動"
+msgstr "追蹤可用空間與最近活動"
 
 msgid "_no_items_"
 msgstr "無項目"

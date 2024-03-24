@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2024-03-20 14:52+0000\n"
+"PO-Revision-Date: 2024-03-25 09:52+0000\n"
 "Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "nextcloud/ios/zh_Hant/>\n"
@@ -55,7 +55,7 @@ msgid "_delete_"
 msgstr "刪除"
 
 msgid "_delete_file_n_"
-msgstr "刪除 %i 個檔案中的 %i 個"
+msgstr "刪除檔案 %i / %i"
 
 msgid "_rename_"
 msgstr "重新命名"
@@ -70,7 +70,7 @@ msgid "_move_"
 msgstr "移動"
 
 msgid "_move_file_n_"
-msgstr "移動 %i 個中 %i 個的檔案"
+msgstr "移動檔案 %i / %i"
 
 msgid "_creating_sharing_"
 msgstr "正在建立分享"
@@ -121,7 +121,7 @@ msgid "_files_"
 msgstr "檔案"
 
 msgid "_home_dir_"
-msgstr "首頁"
+msgstr "家目錄"
 
 msgid "_file_to_upload_"
 msgstr "要上傳的檔案"
@@ -136,7 +136,7 @@ msgid "_beta_version_"
 msgstr "測試版本"
 
 msgid "_function_in_testing_"
-msgstr "功能在測試中，請傳送您遇到的任何問題的資訊。"
+msgstr "功能尚在測試中，請傳送您遇到的任何問題相關資訊。"
 
 msgid "_done_"
 msgstr "完成"
@@ -381,7 +381,7 @@ msgid "_file_conflict_new_"
 msgstr "新增檔案"
 
 msgid "_file_conflict_exists_"
-msgstr "既有的檔案"
+msgstr "已經存在的檔案"
 
 msgid "_file_not_rewite_doc_"
 msgstr "無法覆寫文件，只能建立新文件"
@@ -489,7 +489,7 @@ msgid "_rename_ext_title_"
 msgstr "變更檔案類型？"
 
 msgid "_rename_ext_message_"
-msgstr "若將此檔案從 .%@ 變更為 %@，其行為可能會有所不同"
+msgstr "若將此檔案從 .%@ 變更為 %@，檔案行為可能會有所不同"
 
 msgid "_use_"
 msgstr "使用"
@@ -596,7 +596,7 @@ msgid "_seconds_"
 msgstr "秒"
 
 msgid "_use_as_background_"
-msgstr "將其作為背景圖片"
+msgstr "用它作為背景圖片"
 
 msgid "_background_"
 msgstr "背景圖片"
@@ -776,7 +776,7 @@ msgid "_app_version_"
 msgstr "應用程式版本"
 
 msgid "_app_in_use_"
-msgstr "使用的應用程式"
+msgstr "使用中的應用程式"
 
 msgid "_contact_by_email_"
 msgstr "寄電子郵件聯絡我們"
@@ -875,7 +875,7 @@ msgid "_version_server_"
 msgstr "伺服器版本"
 
 msgid "_help_"
-msgstr "說明"
+msgstr "輔助說明"
 
 msgid "_change_simply_passcode_"
 msgstr "變更密碼類型"
@@ -953,7 +953,7 @@ msgid "_user_editprofile_"
 msgstr "編輯個人檔案"
 
 msgid "_select_offline_warning_"
-msgstr "讓多個檔案與資料夾可供離線使用可能需要一段時間，並且會佔用大量記憶體。"
+msgstr "讓多個檔案與資料夾可供離線使用可能需要一段時間，並且會消耗大量記憶體。"
 
 msgid "_advanced_"
 msgstr "進階"
@@ -989,10 +989,10 @@ msgid "_autoupload_select_folder_"
 msgstr "選取「自動上傳」用的資料夾"
 
 msgid "_autoupload_error_select_folder_"
-msgstr "選取用來「自動上傳」的資料夾"
+msgstr "選取用於「自動上傳」的有效資料夾"
 
 msgid "_autoupload_background_"
-msgstr "背景自動上傳"
+msgstr "在背景中自動上傳"
 
 msgid "_autoupload_photos_"
 msgstr "自動上傳照片"
@@ -1011,7 +1011,7 @@ msgstr "限制"
 
 msgid "_autoupload_background_msg_"
 msgstr ""
-"因為 iOS 的限制，除非啟動 GPS 服務，否則尚無法執行背景作業。一旦行動數據網路"
+"由於 iOS 的限制，除非啟動 GPS 服務，否則尚無法執行背景作業。一旦行動數據網路"
 "有所變化，系統就會短暫喚醒，並檢查是否有新照片上傳到雲端。"
 
 msgid "_autoupload_change_location_"
@@ -1078,7 +1078,7 @@ msgid "_format_compatibility_"
 msgstr "最相容"
 
 msgid "_format_compatibility_footer_"
-msgstr "可能的話，「最相容」會將照片存成 JPEG。"
+msgstr "「最相容」在可能的情況下，會將照片存成 JPEG。"
 
 msgid "_terms_"
 msgstr "服務條款"
@@ -1252,7 +1252,8 @@ msgid "_tutorial_photo_view_"
 msgstr "尚未上傳照片或影片"
 
 msgid "_create_full_upload_"
-msgstr "正在建立封存檔…可能需要很長時間。請在傳輸過程中，請保持應用程式處於活躍狀態。"
+msgstr "正在建立封存檔…可能需要很長時間。請在傳輸過程中，請保持應用程式處於使用中狀態"
+"。"
 
 msgid "_error_createsubfolders_upload_"
 msgstr "建立子資料夾時發生錯誤"
@@ -1268,7 +1269,7 @@ msgstr "上傳後「從相機膠卷移除」將會顯示確認訊息，以從相
 "。已刪除的照片或影片仍會在 iOS 照片垃圾桶中保留30天。"
 
 msgid "_never_"
-msgstr "從未"
+msgstr "永不"
 
 msgid "_less_a_minute_"
 msgstr "不到1分鐘前"
@@ -1433,7 +1434,7 @@ msgid "_add_local_"
 msgstr "新增至本機儲存空間"
 
 msgid "_comm_erro_pull_down_"
-msgstr "注意：與伺服器的通訊發生錯誤。下拉以重新整理。"
+msgstr "注意：與伺服器通訊發生錯誤。下拉以重新整理。"
 
 msgid "_file_not_downloaded_"
 msgstr "檔案未下載"
@@ -1634,7 +1635,7 @@ msgid "_select_media_folder_"
 msgstr "選取「媒體」資料夾"
 
 msgid "_media_viewimage_show_"
-msgstr "僅顯示圖片"
+msgstr "僅顯示影像"
 
 msgid "_media_viewvideo_show_"
 msgstr "僅顯示影片"
@@ -1752,7 +1753,7 @@ msgid "_shared_with_you_by_"
 msgstr "與您分享的對象"
 
 msgid "_shareLinksearch_placeholder_"
-msgstr "請輸入名稱並按搜尋"
+msgstr "請輸入名稱並按「搜尋」"
 
 msgid "_shareLinksearch_mail_placeholder_"
 msgstr "請輸入姓名或電子郵件，然後按「搜尋」"
@@ -1851,7 +1852,7 @@ msgid "_activity_"
 msgstr "活動狀態"
 
 msgid "_activity_file_not_present_"
-msgstr "檔案不再顯示"
+msgstr "檔案不再存在"
 
 msgid "_trash_file_not_found_"
 msgstr "檔案似乎不在垃圾桶中；請前往垃圾桶，更新後再重試"
@@ -1954,7 +1955,7 @@ msgstr "透過 12 個單字組合來產生很安全的密碼，讓只有您可�
 "將單字寫在紙上，並妥善保管在安全的地方。"
 
 msgid "_e2e_settings_read_passphrase_"
-msgstr "讀取密碼"
+msgstr "讀取通行密語"
 
 msgid "_e2e_settings_lock_not_active_"
 msgstr "未啟用鎖定，請返回「設定」並啟用"
@@ -2089,7 +2090,7 @@ msgid "_set_available_offline_"
 msgstr "設定為離線時仍可使用"
 
 msgid "_remove_available_offline_"
-msgstr "從離線仍可使用中移除"
+msgstr "從離線仍可使用移除"
 
 msgid "_create_new_document_"
 msgstr "建立新文件"
@@ -2119,7 +2120,7 @@ msgid "_log_in_"
 msgstr "登入"
 
 msgid "_sign_up_"
-msgstr "透過提供者註冊"
+msgstr "向提供者註冊"
 
 msgid "_host_your_own_server"
 msgstr "架設您自己的伺服器"
@@ -2206,7 +2207,7 @@ msgid "_too_many_files_"
 msgstr "此操作包含太多檔案"
 
 msgid "_too_many_request_"
-msgstr "傳送太多請求，導致觸及速率限制"
+msgstr "傳送太多請求，導致達到速率限制"
 
 msgid "_user_over_quota_"
 msgstr "已達儲存容量限制"
@@ -2404,7 +2405,7 @@ msgid "_used_space_"
 msgstr "已使用空間"
 
 msgid "_open_in_onlyoffice_"
-msgstr "以 ONLYOFFICE 開啟"
+msgstr "在 ONLYOFFICE 中開啟"
 
 msgid "_open_in_collabora_"
 msgstr "在 Collabora Online 中開啟"
@@ -2501,7 +2502,7 @@ msgid "_description_dashboardwidget_"
 msgstr "儀表板隨時可輕鬆取用，前所未有的簡單。"
 
 msgid "_description_fileswidget_"
-msgstr "檢視您最近的檔案、使用工具列皆可大幅加速您的操作。"
+msgstr "檢視您最近的檔案、工具列皆可大幅加速您的操作。"
 
 msgid "_description_toolbarwidget_"
 msgstr "工具列可大幅加速您的操作。"
@@ -2695,7 +2696,7 @@ msgid "_reuired_conversion_"
 msgstr "這部影片需要很長時間才能完成轉換。"
 
 msgid "_stay_app_foreground_"
-msgstr "將應用程式維持在前景…"
+msgstr "請將應用程式維持在前景…"
 
 msgid "_conversion_available_"
 msgstr "轉換會一直在選單上顯示"

@@ -1,4 +1,4 @@
-# [Nextcloud](https://nextcloud.com) iOS app 
+# [Nextcloud](https://nextcloud.com) iOS app
 [![Releases](https://img.shields.io/github/release/nextcloud/ios.svg)](https://github.com/nextcloud/ios/releases/latest) [![Build](https://github.com/nextcloud/ios/actions/workflows/xcode.yml/badge.svg)](https://github.com/nextcloud/ios/actions/workflows/xcode.yml) [![SwiftLint](https://github.com/nextcloud/ios/actions/workflows/lint.yml/badge.svg)](https://github.com/nextcloud/ios/actions/workflows/lint.yml)
 [![irc](https://img.shields.io/badge/IRC-%23nextcloud--mobile%20on%20freenode-blue.svg)](https://webchat.freenode.net/?channels=nextcloud-mobile)
 
@@ -34,7 +34,7 @@ More information how to contribute: [https://nextcloud.com/contribute/](https://
 ## Start contributing
 
 You can start by forking this repository and creating pull requests on the develop
-branch. Maybe start working on [starter issues](https://github.com/nextcloud/ios/labels/good%20first%20issue). 
+branch. Maybe start working on [starter issues](https://github.com/nextcloud/ios/labels/good%20first%20issue).
 
 Easy starting points are also reviewing [pull requests](https://github.com/nextcloud/ios/pulls)
 
@@ -42,7 +42,7 @@ Easy starting points are also reviewing [pull requests](https://github.com/nextc
 
 #### Dependencies
 
-After forking a repository you have to build the dependencies. Dependencies are managed with Carthage version 0.38.0 or later. 
+After forking a repository you have to build the dependencies. Dependencies are managed with Carthage version 0.38.0 or later.
 Run
 
 ```
@@ -74,7 +74,7 @@ Git even has a `-s | --signoff` command line option to append this to your commi
 
 If you need assistance or want to ask a question about the iOS app, you are welcome to [ask for support](https://help.nextcloud.com/c/clients/ios) in our Forums. If you have found a bug, feel free to [open a new Issue on GitHub](https://github.com/nextcloud/ios/issues). Keep in mind, that this repository only manages the iOS app. If you find bugs or have problems with the server/backend, you should ask the [Nextcloud server team](https://github.com/nextcloud/server) for help!
 
-## TestFlight 
+## TestFlight
 
 Do you want to try the latest version in development of Nextcloud iOS ? Simple, follow this simple step
 
@@ -86,7 +86,7 @@ Do you want to try the latest version in development of Nextcloud iOS ? Simple, 
 
 ### Unit tests:
 
-There are currently no preresquites for unit testing that need to be done. Mock everything that's not needed. 
+There are currently no preresquites for unit testing that need to be done. Mock everything that's not needed.
 
 ### Integration tests:
 To run integration tests, we need a docker instance of a Nextcloud test server.
@@ -111,7 +111,7 @@ This is generated from the .env-vars file in the root directory. If there is an 
   static let testServerUrl = "http://localhost:8080"
 }
 ```
-6. You can now run the integration tests. They will use the env vars to connect to the test server to do the testing. 
+6. You can now run the integration tests. They will use the env vars to connect to the test server to do the testing.
 
 
 ### UI tests
@@ -129,3 +129,6 @@ Snapshot tests are a great way to test if UI elements are consistent with design
 - For SwiftUI snapshot tests, It's always a good idea to utilize previews, as they do not depend on device/app state and it has less chances to fail due to wrong state.
 
 - For UIKit snapshot tests, try to include mock dependencies to always make sure the UI is rendered the same way. Even a text change can cause the tests to fail.
+
+# 軟體中文化
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 Wiki。

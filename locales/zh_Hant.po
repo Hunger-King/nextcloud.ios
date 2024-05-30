@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2007-10-18 14:00+0100\n"
-"PO-Revision-Date: 2024-05-21 11:04+0000\n"
+"PO-Revision-Date: 2024-05-31 06:37+0000\n"
 "Last-Translator: Ian Liu <ian@ocf.tw>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.steps.tw/projects/"
 "nextcloud/ios/zh_Hant/>\n"
@@ -1063,7 +1063,7 @@ msgid "_help_intro_"
 msgstr "Nextcloud 介紹"
 
 msgid "_help_activity_verbose_"
-msgstr "詳細的活動狀態饋流"
+msgstr "詳細的活動狀態訂閱"
 
 msgid "_help_activity_mail_"
 msgstr "用電子郵件傳送活動狀態"
@@ -1118,13 +1118,13 @@ msgid "_diagnostics_"
 msgstr "診斷"
 
 msgid "_view_log_"
-msgstr "檢視紀錄檔"
+msgstr "檢視記錄檔"
 
 msgid "_clear_log_"
-msgstr "清除紀錄檔"
+msgstr "清除記錄檔"
 
 msgid "_level_log_"
-msgstr "設定紀錄層級（停用、標準、最詳細）"
+msgstr "設定記錄層級（停用、標準、最詳細）"
 
 msgid "_connect_server_anyway_"
 msgstr "您依然想連線到伺服器嗎？"
@@ -1936,19 +1936,19 @@ msgid "_e2e_settings_title_"
 msgstr "加密"
 
 msgid "_e2e_settings_"
-msgstr "端到端加密"
+msgstr "端對端加密"
 
 msgid "_e2e_settings_start_"
-msgstr "開始端到端加密"
+msgstr "開始端對端加密"
 
 msgid "_e2e_settings_not_available_"
-msgstr "端到端加密不可用"
+msgstr "端對端加密不可用"
 
 msgid "_e2e_settings_activated_"
-msgstr "端到端加密已啟用"
+msgstr "端對端加密已啟用"
 
 msgid "_e2e_server_disabled_"
-msgstr "伺服器上的端到端加密應用程式已停用"
+msgstr "伺服器上的端對端加密應用程式已停用"
 
 msgid "_e2e_settings_view_passphrase_"
 msgstr "透過 12 個單字組合來產生很安全的密碼，讓只有您可以檢視與使用加密後的檔案。請"
@@ -1982,10 +1982,10 @@ msgid "_e2e_remove_folder_encrypted_"
 msgstr "解密"
 
 msgid "_e2e_goto_settings_for_enable_"
-msgstr "這是個加密目錄，請前往「設定」啟用端到端加密"
+msgstr "這是個加密目錄，請前往「設定」啟用端對端加密"
 
 msgid "_e2e_error_"
-msgstr "端到端加密有嚴重內部錯誤"
+msgstr "端對端加密有嚴重內部錯誤"
 
 msgid "_e2e_in_upload_"
 msgstr "正在上傳，請等待所有檔案傳輸完成"
@@ -2279,7 +2279,7 @@ msgid "_err_file_not_found_"
 msgstr "找不到檔案，已移除"
 
 msgid "_err_e2ee_app_version_"
-msgstr "應用程式版本的端到端加密與伺服器不相容，請更新您的伺服器"
+msgstr "應用程式版本的端對端加密與伺服器不相容，請更新您的伺服器"
 
 msgid "_err_permission_microphone_"
 msgstr "請在「設定」中允許取用麥克風"
@@ -2544,13 +2544,13 @@ msgid "_status_in_progress_"
 msgstr "正在進行狀態讀取…"
 
 msgid "_status_e2ee_on_server_"
-msgstr "端到端加密已經在伺服器上設定好了，但尚未在此裝置上啟用"
+msgstr "端對端加密已經在伺服器上設定好了，但尚未在此裝置上啟用"
 
 msgid "_status_e2ee_not_setup_"
-msgstr "伺服器上尚未設定端到端加密"
+msgstr "伺服器上尚未設定端對端加密"
 
 msgid "_status_e2ee_configured_"
-msgstr "端到端加密組態設定正確"
+msgstr "端對端加密組態設定正確"
 
 msgid "_change_upload_filename_"
 msgstr "您想要用其他名稱儲存檔案嗎？"
